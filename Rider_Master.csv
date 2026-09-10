@@ -1,0 +1,1201 @@
+Rider_ID,Rider_Name,Gender,Age,Experience_Years,Vehicle_Type,Average_Speed_kmph,Reliability,Courtesy_Score,Home_Store,Hidden_Slow_Rider,Hidden_Star_Rider
+R00001,Sourabh,Male,30,6,Scooter,25.0,0.905,4.48,DS04,False,False
+R00002,Mohit,Male,27,10,Bicycle,18.3,0.99,3.81,DS07,False,False
+R00003,Sachin,Male,45,2,Electric Scooter,35.0,0.902,3.35,DS09,False,False
+R00004,Sandeep,Female,29,4,Scooter,26.8,0.922,3.86,DS06,False,False
+R00005,Deepak,Male,24,5,Scooter,32.6,0.891,3.72,DS01,False,False
+R00006,Rahul,Male,36,0,Scooter,18.85,0.7464000000000001,3.48,DS02,True,False
+R00007,Harish,Male,33,7,Bicycle,17.4,0.99,4.22,DS26,False,False
+R00008,Yash,Male,28,1,Bicycle,16.1,0.88,3.11,DS27,False,False
+R00009,Ajay,Male,41,9,Electric Scooter,33.8,0.954,4.11,DS06,False,False
+R00010,Rohit,Male,36,9,Scooter,20.150000000000002,0.7496,3.68,DS10,True,False
+R00011,Rahul,Male,23,4,Scooter,23.4,0.909,4.03,DS03,False,False
+R00012,Rahul,Male,45,5,Scooter,24.5,0.865,4.34,DS19,False,False
+R00013,Sandeep,Male,42,9,Scooter,24.9,0.981,4.1,DS17,False,False
+R00014,Vikas,Male,32,5,Scooter,24.0,0.986,4.83,DS28,False,False
+R00015,Arjun,Male,23,0,Scooter,20.4,0.917,4.34,DS10,False,False
+R00016,Manoj,Male,21,3,Scooter,22.8,0.944,4.1,DS18,False,False
+R00017,Rakesh,Male,24,2,Electric Scooter,33.96,0.99,4.18,DS06,False,True
+R00018,Rahul,Male,38,8,Electric Scooter,32.9,0.913,3.6,DS30,False,False
+R00019,Aman,Male,30,1,Bicycle,17.8,0.976,4.62,DS24,False,False
+R00020,Rahul,Male,34,3,Electric Scooter,26.2,0.955,3.83,DS11,False,False
+R00021,Manoj,Male,31,7,Electric Scooter,32.8,0.87,3.2,DS30,False,False
+R00022,Sachin,Male,28,3,Scooter,22.7,0.837,4.01,DS06,False,False
+R00023,Abhishek,Male,28,5,Electric Scooter,33.1,0.906,3.88,DS06,False,False
+R00024,Karan,Male,38,1,Scooter,25.3,0.919,3.08,DS06,False,False
+R00025,Amit,Male,42,1,Bicycle,11.5,0.965,4.44,DS12,False,False
+R00026,Sourabh,Male,42,3,Scooter,25.4,0.909,3.98,DS10,False,False
+R00027,Pankaj,Male,43,6,Scooter,27.2,0.91,3.78,DS17,False,False
+R00028,Karan,Female,43,7,Bicycle,17.6,0.99,4.2,DS03,False,False
+R00029,Sachin,Male,26,2,Electric Scooter,27.4,0.896,4.23,DS07,False,False
+R00030,Sandeep,Male,43,3,Scooter,24.1,0.925,4.06,DS18,False,False
+R00031,Pankaj,Male,41,0,Scooter,19.1,0.87,3.94,DS18,False,False
+R00032,Pankaj,Male,33,3,Scooter,29.2,0.957,3.69,DS21,False,False
+R00033,Mohit,Female,23,7,Electric Scooter,28.4,0.949,3.96,DS30,False,False
+R00034,Harish,Male,37,2,Scooter,23.3,0.941,4.3,DS22,False,False
+R00035,Rakesh,Male,26,7,Scooter,24.7,0.98,4.29,DS28,False,False
+R00036,Yash,Male,34,9,Scooter,29.8,0.906,4.19,DS15,False,False
+R00037,Aman,Male,29,0,Scooter,21.0,0.806,4.4,DS12,False,False
+R00038,Mohit,Female,37,8,Scooter,22.5,0.94,3.75,DS16,False,False
+R00039,Mohit,Male,45,5,Scooter,27.7,0.938,3.77,DS16,False,False
+R00040,Vikas,Male,27,9,Scooter,29.4,0.938,3.76,DS15,False,False
+R00041,Sourabh,Male,31,2,Scooter,26.8,0.905,3.65,DS06,False,False
+R00042,Amit,Male,22,0,Bicycle,17.3,0.806,3.97,DS02,False,False
+R00043,Mohit,Male,37,9,Scooter,19.3,0.957,3.86,DS06,False,False
+R00044,Deepak,Male,25,1,Bicycle,13.6,0.879,4.74,DS16,False,False
+R00045,Manoj,Male,45,10,Scooter,32.4,0.99,4.1,DS18,False,False
+R00046,Ajay,Male,34,6,Electric Scooter,34.5,0.929,4.06,DS09,False,False
+R00047,Mohit,Male,23,3,Scooter,24.5,0.99,3.03,DS08,False,False
+R00048,Rohit,Male,44,6,Bicycle,19.3,0.947,4.14,DS29,False,False
+R00049,Pankaj,Male,28,10,Scooter,24.3,0.988,3.62,DS30,False,False
+R00050,Rakesh,Female,20,7,Bicycle,17.3,0.952,3.87,DS14,False,False
+R00051,Vikas,Male,22,6,Electric Scooter,31.6,0.935,3.72,DS28,False,False
+R00052,Sachin,Male,38,6,Electric Scooter,29.3,0.885,4.48,DS30,False,False
+R00053,Harish,Male,39,2,Scooter,25.2,0.878,4.81,DS08,False,False
+R00054,Amit,Male,27,3,Electric Scooter,28.4,0.99,4.29,DS06,False,False
+R00055,Karan,Male,34,5,Electric Scooter,32.2,0.935,3.85,DS23,False,False
+R00056,Harish,Male,34,10,Bicycle,11.505,0.7376,3.71,DS01,True,False
+R00057,Ajay,Male,22,7,Electric Scooter,32.6,0.964,4.58,DS19,False,False
+R00058,Sourabh,Female,30,5,Bicycle,16.4,0.906,4.21,DS23,False,False
+R00059,Nitin,Female,36,8,Scooter,26.4,0.952,3.67,DS01,False,False
+R00060,Mohit,Male,21,1,Scooter,19.2,0.895,3.59,DS29,False,False
+R00061,Deepak,Male,27,10,Scooter,13.91,0.792,4.17,DS08,True,False
+R00062,Rohit,Female,37,10,Scooter,30.9,0.936,3.86,DS06,False,False
+R00063,Mohit,Male,43,7,Bicycle,18.8,0.979,3.67,DS11,False,False
+R00064,Rahul,Male,20,0,Electric Scooter,20.6,0.913,4.0,DS06,False,False
+R00065,Harish,Male,32,9,Bicycle,17.1,0.99,4.11,DS28,False,False
+R00066,Arjun,Male,22,7,Scooter,26.1,0.989,3.94,DS03,False,False
+R00067,Sandeep,Male,24,2,Bicycle,12.0,0.856,4.05,DS08,False,False
+R00068,Harish,Male,39,5,Scooter,24.3,0.869,4.52,DS12,False,False
+R00069,Harish,Male,43,8,Scooter,24.9,0.99,3.45,DS15,False,False
+R00070,Abhishek,Male,32,0,Scooter,21.1,0.967,4.37,DS23,False,False
+R00071,Aman,Male,29,6,Electric Scooter,30.6,0.889,3.55,DS13,False,False
+R00072,Mohit,Male,34,1,Bicycle,11.6,0.901,4.52,DS09,False,False
+R00073,Rahul,Male,22,6,Scooter,22.8,0.934,3.88,DS19,False,False
+R00074,Karan,Male,20,8,Scooter,28.1,0.926,3.94,DS25,False,False
+R00075,Rohit,Male,42,6,Electric Scooter,30.8,0.924,4.14,DS05,False,False
+R00076,Deepak,Male,40,4,Scooter,24.8,0.944,3.59,DS24,False,False
+R00077,Harish,Male,39,0,Bicycle,11.1,0.914,4.57,DS15,False,False
+R00078,Arjun,Male,24,6,Bicycle,15.1,0.878,3.72,DS05,False,False
+R00079,Yash,Male,42,1,Scooter,23.0,0.882,4.13,DS03,False,False
+R00080,Vikas,Male,33,7,Electric Scooter,23.4,0.914,4.17,DS13,False,False
+R00081,Deepak,Male,26,10,Electric Scooter,32.6,0.915,3.4,DS30,False,False
+R00082,Nitin,Male,43,1,Bicycle,14.1,0.828,5.0,DS13,False,False
+R00083,Karan,Male,40,7,Electric Scooter,30.3,0.956,3.49,DS23,False,False
+R00084,Sandeep,Male,39,0,Electric Scooter,29.4,0.844,3.88,DS01,False,False
+R00085,Rahul,Male,32,3,Bicycle,13.6,0.875,4.41,DS06,False,False
+R00086,Ajay,Male,27,8,Scooter,22.4,0.897,4.53,DS22,False,False
+R00087,Pankaj,Male,30,8,Electric Scooter,30.9,0.912,3.59,DS22,False,False
+R00088,Sandeep,Male,39,5,Electric Scooter,30.1,0.947,4.09,DS19,False,False
+R00089,Sachin,Male,30,3,Bicycle,13.4,0.99,3.89,DS23,False,False
+R00090,Yash,Male,31,7,Scooter,19.9,0.886,3.42,DS04,False,False
+R00091,Nitin,Male,22,1,Scooter,26.3,0.833,3.7,DS03,False,False
+R00092,Mohit,Male,31,8,Scooter,21.0,0.962,4.89,DS17,False,False
+R00093,Yash,Male,37,6,Scooter,26.2,0.99,4.2,DS27,False,False
+R00094,Ajay,Male,42,10,Scooter,29.6,0.968,3.23,DS09,False,False
+R00095,Karan,Female,30,0,Electric Scooter,32.7,0.931,3.63,DS21,False,False
+R00096,Sourabh,Male,32,9,Bicycle,15.1,0.964,4.1,DS04,False,False
+R00097,Deepak,Male,19,10,Scooter,28.2,0.918,4.0,DS12,False,False
+R00098,Nitin,Male,34,1,Bicycle,18.8,0.856,4.13,DS21,False,False
+R00099,Arjun,Male,36,10,Scooter,27.2,0.973,3.62,DS05,False,False
+R00100,Manoj,Male,33,8,Scooter,28.1,0.99,3.7,DS04,False,False
+R00101,Sourabh,Male,19,10,Scooter,28.3,0.913,4.45,DS21,False,False
+R00102,Karan,Male,22,1,Scooter,21.9,0.891,4.13,DS28,False,False
+R00103,Yash,Male,41,5,Bicycle,14.2,0.943,3.9,DS10,False,False
+R00104,Rahul,Male,21,4,Electric Scooter,31.1,0.893,3.28,DS15,False,False
+R00105,Mohit,Male,27,7,Scooter,25.5,0.863,4.03,DS23,False,False
+R00106,Rohit,Male,29,0,Scooter,24.6,0.87,3.95,DS04,False,False
+R00107,Karan,Male,29,9,Scooter,28.3,0.922,3.38,DS14,False,False
+R00108,Manoj,Male,45,10,Electric Scooter,29.5,0.947,3.68,DS16,False,False
+R00109,Vikas,Male,25,2,Scooter,23.1,0.925,4.74,DS07,False,False
+R00110,Vikas,Male,26,9,Electric Scooter,29.7,0.931,4.03,DS08,False,False
+R00111,Sachin,Male,34,8,Bicycle,15.8,0.93,3.77,DS19,False,False
+R00112,Aman,Female,24,7,Scooter,24.1,0.99,4.1,DS04,False,False
+R00113,Yash,Male,19,2,Electric Scooter,36.7,0.932,3.91,DS19,False,False
+R00114,Rakesh,Male,39,5,Scooter,28.5,0.905,4.56,DS10,False,False
+R00115,Sachin,Male,37,5,Bicycle,13.4,0.941,4.48,DS01,False,False
+R00116,Karan,Male,44,9,Scooter,26.1,0.918,3.83,DS17,False,False
+R00117,Yash,Male,36,2,Electric Scooter,26.0,0.922,4.55,DS24,False,False
+R00118,Harish,Male,31,10,Scooter,25.5,0.959,4.06,DS17,False,False
+R00119,Abhishek,Male,21,10,Scooter,29.9,0.9,3.75,DS12,False,False
+R00120,Ajay,Male,34,10,Bicycle,16.9,0.927,3.37,DS18,False,False
+R00121,Manoj,Male,41,7,Scooter,24.5,0.897,3.05,DS15,False,False
+R00122,Deepak,Male,43,6,Scooter,26.9,0.901,3.79,DS05,False,False
+R00123,Rakesh,Male,22,6,Scooter,29.1,0.919,4.44,DS06,False,False
+R00124,Sourabh,Male,23,2,Electric Scooter,25.2,0.91,3.88,DS24,False,False
+R00125,Manoj,Male,21,3,Scooter,26.7,0.961,4.32,DS03,False,False
+R00126,Ajay,Female,36,0,Electric Scooter,33.7,0.856,4.73,DS28,False,False
+R00127,Sourabh,Male,37,10,Scooter,26.0,0.931,3.38,DS22,False,False
+R00128,Arjun,Male,28,3,Scooter,24.3,0.945,3.87,DS22,False,False
+R00129,Amit,Male,23,6,Scooter,24.1,0.965,3.91,DS30,False,False
+R00130,Sourabh,Male,32,6,Electric Scooter,30.7,0.954,3.02,DS03,False,False
+R00131,Sourabh,Male,31,8,Electric Scooter,34.1,0.895,4.45,DS10,False,False
+R00132,Karan,Male,37,9,Bicycle,15.7,0.916,3.3,DS30,False,False
+R00133,Sourabh,Male,19,4,Electric Scooter,29.3,0.932,3.57,DS08,False,False
+R00134,Aman,Female,19,4,Electric Scooter,34.3,0.916,3.55,DS19,False,False
+R00135,Deepak,Male,24,2,Scooter,24.5,0.891,4.48,DS02,False,False
+R00136,Mohit,Male,24,9,Scooter,23.6,0.889,3.54,DS13,False,False
+R00137,Sachin,Male,26,4,Scooter,23.7,0.881,4.08,DS24,False,False
+R00138,Vikas,Male,21,0,Scooter,22.4,0.897,3.6,DS24,False,False
+R00139,Manoj,Male,23,7,Scooter,27.6,0.911,4.15,DS21,False,False
+R00140,Rohit,Male,41,0,Bicycle,16.1,0.828,4.17,DS16,False,False
+R00141,Arjun,Male,29,3,Scooter,30.8,0.908,4.26,DS29,False,False
+R00142,Aman,Male,35,7,Electric Scooter,31.4,0.922,3.7,DS10,False,False
+R00143,Sandeep,Male,34,3,Scooter,28.7,0.934,4.77,DS21,False,False
+R00144,Pankaj,Male,41,3,Scooter,25.3,0.964,3.21,DS01,False,False
+R00145,Sandeep,Male,28,0,Scooter,27.9,0.928,4.13,DS20,False,False
+R00146,Yash,Female,44,0,Scooter,29.759999999999998,0.99,4.44,DS25,False,True
+R00147,Rakesh,Male,24,7,Scooter,28.6,0.99,3.89,DS25,False,False
+R00148,Manoj,Male,31,0,Scooter,22.8,0.879,3.83,DS24,False,False
+R00149,Abhishek,Female,41,10,Electric Scooter,31.0,0.986,4.33,DS22,False,False
+R00150,Sachin,Male,32,4,Scooter,24.5,0.918,4.24,DS13,False,False
+R00151,Deepak,Male,27,9,Electric Scooter,32.5,0.961,4.33,DS28,False,False
+R00152,Vikas,Male,35,2,Scooter,25.0,0.834,4.09,DS11,False,False
+R00153,Pankaj,Female,42,0,Scooter,25.6,0.885,4.03,DS03,False,False
+R00154,Ajay,Female,20,9,Scooter,21.5,0.871,4.65,DS01,False,False
+R00155,Mohit,Male,36,0,Scooter,24.9,0.876,4.33,DS15,False,False
+R00156,Rohit,Male,29,1,Scooter,18.4,0.879,3.68,DS16,False,False
+R00157,Vikas,Male,27,6,Scooter,21.5,0.911,3.85,DS25,False,False
+R00158,Aman,Male,37,1,Electric Scooter,29.6,0.859,5.0,DS10,False,False
+R00159,Vikas,Male,28,1,Scooter,25.3,0.914,4.07,DS13,False,False
+R00160,Arjun,Male,22,1,Scooter,26.9,0.922,3.82,DS01,False,False
+R00161,Amit,Male,31,1,Electric Scooter,32.2,0.899,3.59,DS18,False,False
+R00162,Sandeep,Male,24,1,Bicycle,14.0,0.892,3.74,DS30,False,False
+R00163,Manoj,Male,20,3,Scooter,21.8,0.868,3.77,DS26,False,False
+R00164,Ajay,Male,33,10,Scooter,23.8,0.91,3.93,DS26,False,False
+R00165,Sandeep,Female,27,8,Bicycle,16.0,0.93,3.72,DS15,False,False
+R00166,Sandeep,Male,31,0,Scooter,25.8,0.889,3.42,DS16,False,False
+R00167,Abhishek,Male,35,10,Scooter,29.8,0.954,4.12,DS15,False,False
+R00168,Amit,Male,36,8,Scooter,22.6,0.929,3.22,DS30,False,False
+R00169,Mohit,Male,41,10,Bicycle,16.2,0.984,3.93,DS16,False,False
+R00170,Abhishek,Male,37,4,Electric Scooter,35.6,0.932,4.36,DS23,False,False
+R00171,Aman,Male,31,3,Bicycle,13.3,0.938,4.13,DS10,False,False
+R00172,Rakesh,Male,30,2,Scooter,27.7,0.962,3.37,DS28,False,False
+R00173,Nitin,Male,35,9,Bicycle,17.9,0.934,3.95,DS26,False,False
+R00174,Deepak,Female,24,2,Bicycle,17.3,0.895,4.17,DS18,False,False
+R00175,Sachin,Male,31,0,Scooter,25.5,0.879,3.53,DS15,False,False
+R00176,Abhishek,Male,26,0,Scooter,20.7,0.93,4.73,DS10,False,False
+R00177,Rakesh,Male,28,4,Bicycle,15.3,0.903,4.05,DS17,False,False
+R00178,Aman,Male,32,5,Bicycle,16.7,0.946,4.0,DS01,False,False
+R00179,Harish,Male,20,9,Scooter,32.6,0.962,4.62,DS11,False,False
+R00180,Vikas,Male,43,9,Scooter,24.8,0.99,3.7,DS15,False,False
+R00181,Rahul,Male,20,5,Scooter,19.7,0.913,3.82,DS06,False,False
+R00182,Pankaj,Male,35,5,Scooter,22.3,0.933,4.44,DS06,False,False
+R00183,Manoj,Male,37,1,Scooter,26.0,0.939,4.0,DS07,False,False
+R00184,Manoj,Male,36,0,Scooter,23.6,0.814,3.61,DS30,False,False
+R00185,Abhishek,Male,31,3,Bicycle,12.0,0.944,3.9,DS03,False,False
+R00186,Manoj,Male,32,7,Bicycle,18.1,0.918,4.51,DS28,False,False
+R00187,Sourabh,Male,43,7,Scooter,29.5,0.97,3.69,DS06,False,False
+R00188,Karan,Male,27,8,Bicycle,19.0,0.93,3.64,DS25,False,False
+R00189,Amit,Male,42,10,Bicycle,15.5,0.862,3.93,DS25,False,False
+R00190,Vikas,Male,23,1,Scooter,24.0,0.971,3.95,DS05,False,False
+R00191,Nitin,Male,37,10,Scooter,31.9,0.957,4.28,DS04,False,False
+R00192,Rohit,Male,21,6,Scooter,21.6,0.99,4.14,DS12,False,False
+R00193,Deepak,Male,43,1,Scooter,25.3,0.917,3.65,DS02,False,False
+R00194,Sachin,Male,26,1,Bicycle,11.9,0.869,3.68,DS28,False,False
+R00195,Yash,Female,28,0,Bicycle,13.56,0.99,3.69,DS25,False,True
+R00196,Ajay,Female,22,9,Electric Scooter,29.2,0.913,3.51,DS04,False,False
+R00197,Sachin,Male,38,9,Bicycle,17.0,0.964,4.14,DS20,False,False
+R00198,Sachin,Male,37,5,Bicycle,17.9,0.932,4.13,DS20,False,False
+R00199,Amit,Male,28,1,Electric Scooter,20.475,0.7312000000000001,4.48,DS08,True,False
+R00200,Abhishek,Male,43,0,Scooter,21.9,0.944,4.12,DS20,False,False
+R00201,Vikas,Male,34,7,Electric Scooter,29.1,0.935,3.67,DS29,False,False
+R00202,Abhishek,Male,28,4,Scooter,24.5,0.915,3.95,DS25,False,False
+R00203,Pankaj,Male,34,7,Scooter,24.3,0.901,4.62,DS10,False,False
+R00204,Sandeep,Male,42,8,Scooter,26.6,0.956,3.94,DS20,False,False
+R00205,Abhishek,Male,36,5,Bicycle,14.3,0.908,4.13,DS25,False,False
+R00206,Vikas,Male,25,2,Scooter,27.1,0.877,4.03,DS25,False,False
+R00207,Amit,Female,25,2,Scooter,27.7,0.83,4.3,DS06,False,False
+R00208,Vikas,Male,45,0,Bicycle,17.4,0.924,4.5,DS13,False,False
+R00209,Ajay,Male,43,6,Scooter,21.3,0.924,3.95,DS08,False,False
+R00210,Abhishek,Female,35,6,Bicycle,18.7,0.904,5.0,DS26,False,False
+R00211,Nitin,Male,21,5,Electric Scooter,28.0,0.897,4.14,DS09,False,False
+R00212,Sachin,Male,43,7,Bicycle,16.4,0.907,4.25,DS23,False,False
+R00213,Mohit,Male,29,7,Bicycle,15.5,0.89,3.78,DS17,False,False
+R00214,Karan,Male,20,0,Electric Scooter,24.9,0.917,4.23,DS03,False,False
+R00215,Arjun,Male,25,5,Scooter,22.8,0.909,3.66,DS23,False,False
+R00216,Amit,Male,27,8,Electric Scooter,30.1,0.935,3.84,DS28,False,False
+R00217,Yash,Male,37,5,Electric Scooter,32.4,0.871,4.69,DS24,False,False
+R00218,Deepak,Male,27,2,Electric Scooter,31.2,0.847,4.25,DS29,False,False
+R00219,Aman,Male,45,7,Scooter,24.6,0.921,4.06,DS16,False,False
+R00220,Harish,Female,45,4,Bicycle,14.5,0.924,4.67,DS15,False,False
+R00221,Abhishek,Male,20,2,Electric Scooter,24.4,0.953,3.59,DS30,False,False
+R00222,Karan,Male,19,10,Bicycle,16.4,0.969,3.65,DS14,False,False
+R00223,Ajay,Male,28,10,Scooter,23.5,0.981,4.18,DS03,False,False
+R00224,Sachin,Male,45,6,Scooter,20.2,0.927,3.6,DS23,False,False
+R00225,Manoj,Female,33,0,Scooter,27.4,0.89,4.0,DS18,False,False
+R00226,Manoj,Male,28,8,Bicycle,15.7,0.962,4.22,DS29,False,False
+R00227,Karan,Male,29,8,Scooter,22.0,0.957,4.7,DS16,False,False
+R00228,Deepak,Male,19,5,Bicycle,17.3,0.976,3.97,DS14,False,False
+R00229,Harish,Male,24,3,Scooter,20.0,0.889,4.19,DS11,False,False
+R00230,Sourabh,Male,44,6,Scooter,25.1,0.976,4.14,DS06,False,False
+R00231,Arjun,Male,24,5,Bicycle,17.1,0.892,3.98,DS09,False,False
+R00232,Rohit,Male,41,9,Scooter,23.1,0.988,3.95,DS11,False,False
+R00233,Yash,Male,31,2,Scooter,34.68,0.99,3.83,DS20,False,True
+R00234,Sachin,Male,45,3,Scooter,23.0,0.908,4.07,DS20,False,False
+R00235,Rahul,Female,23,1,Scooter,25.8,0.941,3.78,DS18,False,False
+R00236,Rakesh,Male,38,8,Scooter,36.3,0.948,4.38,DS19,False,False
+R00237,Pankaj,Female,37,4,Scooter,23.6,0.943,3.86,DS09,False,False
+R00238,Ajay,Male,34,2,Electric Scooter,23.1,0.878,4.47,DS18,False,False
+R00239,Arjun,Male,36,10,Bicycle,21.6,0.883,3.92,DS15,False,False
+R00240,Ajay,Male,37,1,Scooter,29.2,0.916,4.36,DS10,False,False
+R00241,Yash,Male,39,6,Scooter,26.3,0.895,3.75,DS09,False,False
+R00242,Sourabh,Male,44,7,Electric Scooter,28.1,0.981,4.44,DS20,False,False
+R00243,Nitin,Male,45,8,Scooter,24.4,0.945,3.67,DS16,False,False
+R00244,Pankaj,Male,21,1,Electric Scooter,27.4,0.868,3.38,DS07,False,False
+R00245,Rakesh,Male,20,4,Scooter,28.3,0.899,4.0,DS13,False,False
+R00246,Sachin,Male,36,5,Electric Scooter,33.3,0.894,4.36,DS19,False,False
+R00247,Nitin,Male,36,2,Bicycle,12.8,0.883,4.15,DS09,False,False
+R00248,Amit,Male,45,9,Scooter,24.3,0.978,4.7,DS12,False,False
+R00249,Manoj,Male,30,4,Bicycle,7.54,0.756,3.89,DS24,True,False
+R00250,Rahul,Male,30,10,Scooter,25.5,0.99,4.23,DS14,False,False
+R00251,Ajay,Male,19,4,Electric Scooter,29.2,0.896,3.68,DS23,False,False
+R00252,Ajay,Female,42,3,Scooter,22.3,0.951,4.48,DS10,False,False
+R00253,Vikas,Male,30,3,Scooter,22.4,0.917,3.55,DS10,False,False
+R00254,Rakesh,Female,35,0,Electric Scooter,25.2,0.93,4.37,DS10,False,False
+R00255,Ajay,Male,21,8,Scooter,26.8,0.95,4.01,DS18,False,False
+R00256,Ajay,Male,22,10,Bicycle,16.5,0.978,3.82,DS04,False,False
+R00257,Ajay,Male,21,10,Bicycle,17.3,0.937,3.79,DS08,False,False
+R00258,Arjun,Male,31,8,Scooter,24.3,0.944,3.4,DS01,False,False
+R00259,Sandeep,Male,38,1,Electric Scooter,26.4,0.915,4.19,DS01,False,False
+R00260,Karan,Male,45,9,Electric Scooter,28.2,0.981,3.74,DS27,False,False
+R00261,Vikas,Male,19,1,Bicycle,17.5,0.853,4.24,DS16,False,False
+R00262,Ajay,Male,38,0,Electric Scooter,26.9,0.842,3.66,DS27,False,False
+R00263,Rahul,Male,25,0,Scooter,21.5,0.893,4.36,DS29,False,False
+R00264,Mohit,Male,33,4,Electric Scooter,28.0,0.87,4.65,DS06,False,False
+R00265,Abhishek,Female,29,0,Electric Scooter,22.8,0.933,3.97,DS30,False,False
+R00266,Mohit,Male,28,8,Scooter,28.8,0.975,4.12,DS28,False,False
+R00267,Pankaj,Male,42,3,Bicycle,15.2,0.839,4.7,DS25,False,False
+R00268,Sourabh,Male,26,3,Bicycle,17.9,0.896,3.95,DS21,False,False
+R00269,Arjun,Male,34,0,Scooter,23.9,0.916,4.13,DS25,False,False
+R00270,Rahul,Male,39,3,Scooter,31.3,0.916,3.64,DS24,False,False
+R00271,Mohit,Male,32,6,Scooter,21.7,0.896,3.94,DS03,False,False
+R00272,Deepak,Female,43,2,Scooter,28.7,0.933,3.88,DS03,False,False
+R00273,Mohit,Male,22,1,Electric Scooter,19.3,0.925,4.09,DS22,False,False
+R00274,Karan,Female,25,9,Scooter,25.4,0.954,3.68,DS08,False,False
+R00275,Sachin,Male,25,8,Bicycle,16.7,0.912,3.83,DS15,False,False
+R00276,Ajay,Male,33,8,Scooter,28.6,0.99,4.15,DS03,False,False
+R00277,Mohit,Male,34,4,Electric Scooter,28.5,0.898,4.02,DS02,False,False
+R00278,Ajay,Female,37,4,Bicycle,13.0,0.863,4.09,DS01,False,False
+R00279,Vikas,Female,37,2,Scooter,26.5,0.911,4.42,DS28,False,False
+R00280,Sachin,Male,39,7,Electric Scooter,29.9,0.847,4.3,DS08,False,False
+R00281,Nitin,Male,45,1,Scooter,23.5,0.887,3.46,DS16,False,False
+R00282,Aman,Male,34,1,Electric Scooter,33.5,0.887,3.61,DS16,False,False
+R00283,Sachin,Male,28,0,Scooter,26.2,0.916,4.12,DS25,False,False
+R00284,Rakesh,Male,34,5,Scooter,21.7,0.946,4.44,DS12,False,False
+R00285,Ajay,Male,34,3,Scooter,16.3,0.887,4.45,DS22,False,False
+R00286,Pankaj,Male,43,3,Scooter,21.5,0.901,4.55,DS04,False,False
+R00287,Arjun,Male,38,3,Electric Scooter,29.8,0.919,4.26,DS09,False,False
+R00288,Rahul,Male,37,5,Electric Scooter,34.6,0.978,3.06,DS08,False,False
+R00289,Vikas,Male,21,10,Scooter,26.0,0.972,3.78,DS26,False,False
+R00290,Ajay,Male,44,7,Scooter,23.1,0.985,4.01,DS10,False,False
+R00291,Aman,Male,41,4,Scooter,27.9,0.888,3.96,DS01,False,False
+R00292,Nitin,Male,31,4,Scooter,24.7,0.916,3.98,DS04,False,False
+R00293,Ajay,Male,37,6,Bicycle,14.6,0.879,4.21,DS13,False,False
+R00294,Aman,Male,36,8,Bicycle,16.8,0.888,3.34,DS04,False,False
+R00295,Aman,Female,22,2,Electric Scooter,32.8,0.892,4.61,DS21,False,False
+R00296,Vikas,Female,39,3,Scooter,22.8,0.91,3.78,DS24,False,False
+R00297,Pankaj,Male,35,1,Scooter,18.5,0.935,4.17,DS22,False,False
+R00298,Pankaj,Male,23,4,Scooter,32.7,0.92,4.0,DS22,False,False
+R00299,Aman,Male,24,2,Electric Scooter,16.25,0.7856000000000001,3.26,DS27,True,False
+R00300,Nitin,Male,33,9,Electric Scooter,28.1,0.954,3.59,DS03,False,False
+R00301,Nitin,Female,33,5,Bicycle,17.1,0.955,3.94,DS06,False,False
+R00302,Sachin,Male,45,4,Scooter,20.0,0.95,4.49,DS07,False,False
+R00303,Rakesh,Male,23,1,Scooter,25.3,0.897,4.12,DS30,False,False
+R00304,Abhishek,Male,45,1,Scooter,23.6,0.971,4.36,DS04,False,False
+R00305,Mohit,Male,29,7,Scooter,27.9,0.919,4.17,DS19,False,False
+R00306,Nitin,Male,38,5,Bicycle,17.9,0.937,3.47,DS01,False,False
+R00307,Pankaj,Male,26,10,Scooter,26.639999999999997,0.99,3.75,DS14,False,True
+R00308,Nitin,Female,26,9,Bicycle,18.6,0.94,4.64,DS19,False,False
+R00309,Rohit,Male,45,1,Scooter,21.6,0.889,3.96,DS30,False,False
+R00310,Sachin,Male,42,0,Bicycle,13.4,0.84,4.28,DS20,False,False
+R00311,Pankaj,Male,22,3,Bicycle,12.2,0.847,4.33,DS07,False,False
+R00312,Rahul,Female,21,2,Scooter,26.8,0.899,4.22,DS02,False,False
+R00313,Pankaj,Male,27,7,Scooter,28.6,0.901,3.87,DS14,False,False
+R00314,Mohit,Female,33,9,Electric Scooter,29.4,0.943,4.26,DS25,False,False
+R00315,Rohit,Male,39,10,Scooter,30.0,0.99,3.77,DS14,False,False
+R00316,Sourabh,Male,27,8,Electric Scooter,28.7,0.893,4.15,DS12,False,False
+R00317,Rahul,Male,29,2,Electric Scooter,28.1,0.967,4.37,DS30,False,False
+R00318,Mohit,Male,27,9,Scooter,24.8,0.974,3.87,DS11,False,False
+R00319,Sachin,Male,41,7,Scooter,27.2,0.86,4.01,DS15,False,False
+R00320,Nitin,Female,22,7,Scooter,22.8,0.953,3.86,DS24,False,False
+R00321,Amit,Male,40,0,Scooter,22.2,0.9,3.99,DS11,False,False
+R00322,Pankaj,Male,40,9,Scooter,26.4,0.99,4.67,DS10,False,False
+R00323,Ajay,Male,37,9,Electric Scooter,29.6,0.99,3.59,DS26,False,False
+R00324,Nitin,Female,33,1,Electric Scooter,33.1,0.924,4.12,DS08,False,False
+R00325,Rahul,Male,41,1,Scooter,24.6,0.931,4.31,DS28,False,False
+R00326,Sourabh,Male,35,10,Scooter,18.785,0.792,3.82,DS25,True,False
+R00327,Harish,Male,41,5,Scooter,31.799999999999997,0.99,3.79,DS05,False,True
+R00328,Arjun,Male,22,5,Scooter,26.3,0.934,4.13,DS16,False,False
+R00329,Manoj,Male,36,6,Electric Scooter,29.9,0.857,4.29,DS13,False,False
+R00330,Sandeep,Male,40,0,Scooter,28.4,0.91,3.41,DS21,False,False
+R00331,Rakesh,Male,40,8,Bicycle,13.2,0.92,4.07,DS15,False,False
+R00332,Vikas,Male,26,8,Bicycle,15.2,0.99,3.85,DS05,False,False
+R00333,Nitin,Male,39,5,Scooter,24.7,0.947,4.17,DS23,False,False
+R00334,Sandeep,Male,35,7,Bicycle,20.4,0.947,3.67,DS19,False,False
+R00335,Deepak,Male,39,5,Bicycle,12.0,0.95,3.78,DS01,False,False
+R00336,Pankaj,Male,26,0,Scooter,27.4,0.838,4.28,DS17,False,False
+R00337,Abhishek,Male,22,5,Scooter,26.2,0.979,3.61,DS21,False,False
+R00338,Sachin,Male,22,8,Bicycle,19.0,0.925,4.1,DS30,False,False
+R00339,Rohit,Male,34,1,Electric Scooter,24.5,0.942,3.96,DS16,False,False
+R00340,Rohit,Male,42,9,Scooter,26.4,0.88,3.62,DS30,False,False
+R00341,Pankaj,Male,32,10,Electric Scooter,30.7,0.987,3.83,DS20,False,False
+R00342,Ajay,Male,36,8,Bicycle,12.6,0.874,4.25,DS25,False,False
+R00343,Rahul,Male,37,0,Scooter,26.4,0.907,3.63,DS24,False,False
+R00344,Rahul,Male,26,0,Scooter,28.0,0.919,3.79,DS20,False,False
+R00345,Deepak,Male,21,8,Scooter,27.6,0.986,3.87,DS24,False,False
+R00346,Sandeep,Female,22,8,Scooter,30.2,0.901,3.82,DS16,False,False
+R00347,Rakesh,Male,45,6,Scooter,28.5,0.967,3.75,DS05,False,False
+R00348,Manoj,Male,27,8,Bicycle,15.3,0.882,3.54,DS01,False,False
+R00349,Deepak,Male,22,6,Scooter,27.0,0.887,3.82,DS11,False,False
+R00350,Mohit,Male,42,9,Bicycle,16.5,0.931,3.42,DS21,False,False
+R00351,Pankaj,Male,27,2,Scooter,23.8,0.89,3.91,DS24,False,False
+R00352,Amit,Male,28,7,Bicycle,14.9,0.946,4.38,DS23,False,False
+R00353,Yash,Female,40,6,Scooter,22.3,0.93,3.86,DS03,False,False
+R00354,Amit,Male,31,6,Scooter,23.5,0.939,3.59,DS02,False,False
+R00355,Rakesh,Male,36,10,Electric Scooter,24.5,0.895,3.96,DS15,False,False
+R00356,Nitin,Male,22,5,Electric Scooter,31.0,0.925,3.84,DS18,False,False
+R00357,Manoj,Male,21,6,Scooter,23.7,0.919,3.57,DS14,False,False
+R00358,Arjun,Male,39,0,Scooter,22.5,0.925,4.86,DS06,False,False
+R00359,Harish,Male,24,7,Bicycle,15.5,0.946,3.51,DS12,False,False
+R00360,Amit,Male,31,9,Scooter,25.2,0.937,3.45,DS18,False,False
+R00361,Mohit,Male,21,0,Scooter,19.3,0.916,4.24,DS05,False,False
+R00362,Vikas,Male,19,5,Bicycle,17.6,0.99,4.62,DS08,False,False
+R00363,Ajay,Male,20,10,Scooter,25.1,0.97,3.4,DS20,False,False
+R00364,Abhishek,Male,37,7,Scooter,21.2,0.867,4.07,DS21,False,False
+R00365,Rakesh,Male,26,6,Scooter,24.4,0.99,4.14,DS22,False,False
+R00366,Pankaj,Male,26,1,Electric Scooter,30.4,0.86,4.75,DS26,False,False
+R00367,Nitin,Male,28,8,Bicycle,17.3,0.917,3.83,DS23,False,False
+R00368,Abhishek,Male,33,7,Scooter,24.6,0.986,3.16,DS04,False,False
+R00369,Nitin,Female,22,5,Electric Scooter,28.1,0.953,4.17,DS19,False,False
+R00370,Manoj,Male,45,6,Bicycle,16.8,0.977,4.31,DS27,False,False
+R00371,Arjun,Male,42,0,Scooter,19.3,0.888,4.61,DS06,False,False
+R00372,Vikas,Female,32,6,Electric Scooter,29.0,0.939,4.6,DS20,False,False
+R00373,Aman,Male,30,1,Scooter,22.7,0.91,4.06,DS02,False,False
+R00374,Ajay,Male,20,7,Electric Scooter,32.3,0.956,4.01,DS29,False,False
+R00375,Rahul,Male,39,3,Bicycle,15.3,0.952,3.91,DS12,False,False
+R00376,Nitin,Male,38,4,Scooter,23.7,0.877,3.86,DS30,False,False
+R00377,Nitin,Male,44,8,Scooter,27.1,0.917,3.67,DS10,False,False
+R00378,Amit,Male,30,5,Scooter,25.9,0.832,4.0,DS15,False,False
+R00379,Manoj,Male,37,1,Scooter,23.0,0.94,3.78,DS09,False,False
+R00380,Yash,Male,39,6,Scooter,28.2,0.922,3.53,DS16,False,False
+R00381,Abhishek,Male,30,8,Scooter,29.5,0.99,3.8,DS08,False,False
+R00382,Rakesh,Male,24,1,Scooter,24.9,0.864,3.69,DS14,False,False
+R00383,Amit,Male,31,10,Electric Scooter,25.7,0.99,3.77,DS19,False,False
+R00384,Rahul,Male,41,0,Bicycle,15.12,0.99,3.59,DS04,False,True
+R00385,Amit,Male,28,5,Scooter,25.5,0.972,3.92,DS05,False,False
+R00386,Rahul,Male,20,0,Scooter,19.3,0.896,3.27,DS28,False,False
+R00387,Manoj,Male,31,3,Scooter,27.24,0.99,3.68,DS10,False,True
+R00388,Abhishek,Male,19,1,Scooter,23.8,0.894,3.64,DS09,False,False
+R00389,Rakesh,Male,36,7,Electric Scooter,30.2,0.99,4.3,DS13,False,False
+R00390,Manoj,Male,43,4,Scooter,24.4,0.868,3.55,DS06,False,False
+R00391,Rahul,Female,36,7,Scooter,24.1,0.903,3.02,DS03,False,False
+R00392,Karan,Female,43,10,Scooter,18.07,0.7808,4.61,DS10,True,False
+R00393,Deepak,Male,41,1,Scooter,31.7,0.881,4.31,DS25,False,False
+R00394,Arjun,Female,32,3,Electric Scooter,33.4,0.862,4.3,DS03,False,False
+R00395,Abhishek,Male,23,6,Bicycle,16.2,0.971,3.96,DS15,False,False
+R00396,Manoj,Male,21,7,Bicycle,15.9,0.949,4.18,DS25,False,False
+R00397,Sourabh,Male,24,8,Bicycle,16.7,0.897,4.31,DS16,False,False
+R00398,Sachin,Male,37,5,Scooter,26.8,0.879,3.33,DS12,False,False
+R00399,Amit,Male,37,7,Bicycle,14.1,0.927,4.72,DS04,False,False
+R00400,Sandeep,Male,38,2,Electric Scooter,26.3,0.915,4.06,DS26,False,False
+R00401,Yash,Male,39,7,Electric Scooter,20.02,0.7352000000000001,3.99,DS14,True,False
+R00402,Mohit,Male,41,5,Electric Scooter,31.7,0.905,4.27,DS09,False,False
+R00403,Mohit,Male,33,0,Electric Scooter,31.6,0.976,4.26,DS22,False,False
+R00404,Sourabh,Male,21,6,Scooter,23.7,0.903,3.61,DS29,False,False
+R00405,Harish,Male,21,4,Scooter,27.1,0.92,3.45,DS11,False,False
+R00406,Harish,Male,19,4,Bicycle,12.2,0.913,4.26,DS17,False,False
+R00407,Amit,Male,34,0,Electric Scooter,23.4,0.811,4.38,DS27,False,False
+R00408,Vikas,Male,24,7,Bicycle,16.8,0.905,4.39,DS22,False,False
+R00409,Rahul,Male,23,8,Electric Scooter,26.9,0.936,4.76,DS07,False,False
+R00410,Pankaj,Male,42,7,Scooter,23.9,0.905,4.33,DS11,False,False
+R00411,Sourabh,Male,20,10,Bicycle,20.5,0.963,4.35,DS24,False,False
+R00412,Arjun,Male,30,8,Bicycle,16.1,0.99,3.76,DS11,False,False
+R00413,Arjun,Male,35,1,Bicycle,10.9,0.924,4.71,DS20,False,False
+R00414,Arjun,Male,19,9,Bicycle,15.5,0.971,4.8,DS11,False,False
+R00415,Karan,Male,25,9,Electric Scooter,32.1,0.916,3.28,DS29,False,False
+R00416,Rohit,Male,20,8,Scooter,29.3,0.905,4.24,DS19,False,False
+R00417,Abhishek,Male,41,6,Scooter,23.5,0.99,4.13,DS02,False,False
+R00418,Aman,Male,26,9,Electric Scooter,32.5,0.903,3.66,DS08,False,False
+R00419,Deepak,Male,37,9,Scooter,25.0,0.923,4.1,DS17,False,False
+R00420,Rohit,Female,23,3,Scooter,26.8,0.893,3.72,DS30,False,False
+R00421,Sourabh,Male,20,9,Scooter,24.5,0.99,4.0,DS04,False,False
+R00422,Yash,Male,23,10,Electric Scooter,32.5,0.916,3.4,DS22,False,False
+R00423,Abhishek,Male,44,4,Scooter,25.4,0.963,3.91,DS11,False,False
+R00424,Rakesh,Male,22,1,Scooter,23.0,0.898,4.67,DS08,False,False
+R00425,Pankaj,Male,30,1,Scooter,19.5,0.889,4.62,DS21,False,False
+R00426,Deepak,Male,45,7,Electric Scooter,27.0,0.914,3.94,DS13,False,False
+R00427,Nitin,Male,31,3,Scooter,26.0,0.919,4.36,DS05,False,False
+R00428,Sourabh,Male,22,5,Bicycle,17.1,0.863,4.76,DS23,False,False
+R00429,Harish,Male,31,2,Electric Scooter,32.9,0.954,4.52,DS22,False,False
+R00430,Ajay,Male,33,4,Electric Scooter,26.1,0.903,4.0,DS05,False,False
+R00431,Manoj,Male,36,10,Scooter,17.745,0.7344,3.94,DS08,True,False
+R00432,Harish,Male,37,6,Scooter,18.2,0.987,3.97,DS11,False,False
+R00433,Nitin,Male,31,7,Scooter,29.8,0.94,4.44,DS02,False,False
+R00434,Yash,Male,24,10,Scooter,23.0,0.99,4.2,DS14,False,False
+R00435,Vikas,Male,32,5,Scooter,20.2,0.926,3.74,DS19,False,False
+R00436,Nitin,Male,27,10,Scooter,25.4,0.934,4.53,DS18,False,False
+R00437,Amit,Female,29,4,Scooter,26.1,0.924,4.43,DS21,False,False
+R00438,Rohit,Female,35,7,Scooter,26.0,0.99,4.07,DS04,False,False
+R00439,Deepak,Male,38,3,Scooter,24.9,0.919,4.11,DS26,False,False
+R00440,Vikas,Male,37,5,Electric Scooter,27.5,0.957,4.15,DS23,False,False
+R00441,Rohit,Male,24,7,Electric Scooter,27.4,0.99,3.86,DS15,False,False
+R00442,Amit,Male,19,2,Scooter,29.7,0.839,3.75,DS27,False,False
+R00443,Deepak,Male,45,4,Scooter,22.0,0.922,3.53,DS10,False,False
+R00444,Harish,Female,32,6,Bicycle,9.3,0.949,3.89,DS04,False,False
+R00445,Karan,Male,37,0,Electric Scooter,23.6,0.864,4.59,DS22,False,False
+R00446,Rohit,Male,41,8,Electric Scooter,18.2,0.7784,3.61,DS03,True,False
+R00447,Manoj,Female,22,5,Bicycle,16.9,0.909,3.73,DS25,False,False
+R00448,Arjun,Male,21,10,Scooter,25.2,0.946,3.9,DS13,False,False
+R00449,Amit,Male,20,0,Scooter,19.825,0.6648000000000001,2.96,DS23,True,False
+R00450,Arjun,Male,34,10,Scooter,26.2,0.966,3.58,DS28,False,False
+R00451,Aman,Male,20,8,Electric Scooter,32.6,0.933,4.0,DS13,False,False
+R00452,Rohit,Male,20,9,Scooter,31.0,0.948,4.08,DS07,False,False
+R00453,Sachin,Male,34,10,Electric Scooter,37.0,0.897,3.76,DS10,False,False
+R00454,Sandeep,Male,36,2,Scooter,22.1,0.905,4.19,DS21,False,False
+R00455,Aman,Female,31,10,Bicycle,13.9,0.988,4.0,DS30,False,False
+R00456,Harish,Male,35,3,Electric Scooter,29.1,0.936,3.75,DS08,False,False
+R00457,Arjun,Male,41,7,Electric Scooter,28.8,0.912,3.63,DS22,False,False
+R00458,Abhishek,Male,38,4,Bicycle,11.8,0.88,3.98,DS15,False,False
+R00459,Sachin,Male,42,4,Scooter,25.3,0.943,3.71,DS16,False,False
+R00460,Rohit,Male,19,10,Bicycle,18.2,0.988,4.6,DS27,False,False
+R00461,Deepak,Male,29,4,Bicycle,16.9,0.927,3.94,DS04,False,False
+R00462,Sachin,Male,23,7,Scooter,23.7,0.918,4.36,DS14,False,False
+R00463,Pankaj,Male,37,9,Scooter,25.0,0.952,3.96,DS14,False,False
+R00464,Harish,Male,35,4,Bicycle,16.4,0.835,3.94,DS23,False,False
+R00465,Mohit,Male,45,1,Scooter,17.3,0.868,3.5,DS29,False,False
+R00466,Rahul,Male,42,4,Scooter,27.1,0.901,4.13,DS04,False,False
+R00467,Sandeep,Male,43,0,Electric Scooter,29.8,0.884,4.15,DS07,False,False
+R00468,Amit,Male,33,8,Scooter,23.9,0.89,3.62,DS20,False,False
+R00469,Nitin,Male,35,3,Bicycle,14.1,0.883,4.2,DS26,False,False
+R00470,Aman,Male,38,4,Scooter,29.0,0.914,4.16,DS03,False,False
+R00471,Yash,Male,31,10,Scooter,27.6,0.938,3.91,DS19,False,False
+R00472,Mohit,Male,41,9,Scooter,31.4,0.988,4.19,DS10,False,False
+R00473,Sachin,Male,40,3,Scooter,28.4,0.871,3.6,DS02,False,False
+R00474,Rakesh,Male,34,8,Scooter,25.8,0.897,3.97,DS01,False,False
+R00475,Arjun,Male,41,8,Scooter,27.2,0.827,3.89,DS30,False,False
+R00476,Abhishek,Male,33,2,Scooter,26.8,0.907,3.95,DS09,False,False
+R00477,Vikas,Male,27,9,Scooter,22.4,0.99,3.93,DS13,False,False
+R00478,Mohit,Male,40,9,Scooter,26.7,0.878,3.67,DS21,False,False
+R00479,Aman,Male,44,7,Electric Scooter,26.5,0.943,5.0,DS07,False,False
+R00480,Vikas,Male,28,0,Electric Scooter,32.7,0.918,3.75,DS11,False,False
+R00481,Karan,Male,39,0,Electric Scooter,31.7,0.841,3.71,DS16,False,False
+R00482,Mohit,Male,24,3,Scooter,22.0,0.925,3.54,DS16,False,False
+R00483,Rahul,Male,20,4,Scooter,22.8,0.934,3.71,DS19,False,False
+R00484,Rakesh,Male,22,5,Scooter,23.3,0.966,4.06,DS03,False,False
+R00485,Arjun,Male,35,7,Electric Scooter,27.9,0.903,3.79,DS09,False,False
+R00486,Mohit,Female,40,4,Bicycle,17.7,0.959,4.41,DS03,False,False
+R00487,Vikas,Male,26,7,Scooter,26.5,0.909,3.32,DS18,False,False
+R00488,Deepak,Male,37,3,Scooter,22.2,0.867,3.92,DS16,False,False
+R00489,Sandeep,Male,19,1,Scooter,30.1,0.935,3.93,DS21,False,False
+R00490,Manoj,Male,22,0,Scooter,28.1,0.901,5.0,DS20,False,False
+R00491,Deepak,Male,37,4,Scooter,24.3,0.883,3.18,DS06,False,False
+R00492,Abhishek,Female,19,5,Scooter,23.8,0.943,3.49,DS20,False,False
+R00493,Harish,Male,34,7,Electric Scooter,31.1,0.921,4.17,DS26,False,False
+R00494,Deepak,Male,30,0,Bicycle,15.4,0.815,4.0,DS11,False,False
+R00495,Arjun,Male,20,8,Scooter,31.3,0.984,3.51,DS10,False,False
+R00496,Amit,Male,23,2,Electric Scooter,32.0,0.939,3.98,DS30,False,False
+R00497,Ajay,Male,22,0,Scooter,26.1,0.862,3.53,DS07,False,False
+R00498,Rakesh,Male,27,3,Scooter,24.4,0.99,4.25,DS29,False,False
+R00499,Vikas,Male,26,6,Scooter,24.2,0.942,4.46,DS28,False,False
+R00500,Ajay,Male,44,4,Scooter,24.6,0.892,3.93,DS11,False,False
+R00501,Yash,Male,34,3,Scooter,25.8,0.895,3.17,DS17,False,False
+R00502,Harish,Male,31,7,Scooter,25.5,0.88,3.98,DS24,False,False
+R00503,Vikas,Male,19,0,Scooter,19.6,0.832,3.95,DS27,False,False
+R00504,Yash,Male,23,7,Scooter,27.3,0.919,4.59,DS28,False,False
+R00505,Aman,Male,32,10,Scooter,30.1,0.901,3.74,DS01,False,False
+R00506,Arjun,Male,32,0,Electric Scooter,30.5,0.89,3.51,DS19,False,False
+R00507,Manoj,Male,44,0,Electric Scooter,28.0,0.927,4.44,DS16,False,False
+R00508,Karan,Female,24,6,Scooter,25.9,0.848,4.36,DS02,False,False
+R00509,Manoj,Male,27,6,Bicycle,12.8,0.977,4.17,DS04,False,False
+R00510,Sandeep,Male,21,1,Bicycle,14.6,0.814,3.7,DS15,False,False
+R00511,Deepak,Male,30,1,Scooter,28.4,0.864,4.18,DS21,False,False
+R00512,Aman,Male,24,6,Scooter,26.7,0.936,3.76,DS03,False,False
+R00513,Pankaj,Male,45,1,Scooter,24.3,0.85,3.7,DS02,False,False
+R00514,Karan,Male,42,9,Electric Scooter,25.1,0.972,4.34,DS13,False,False
+R00515,Aman,Male,32,4,Scooter,26.3,0.901,3.68,DS19,False,False
+R00516,Ajay,Male,42,3,Electric Scooter,29.2,0.901,3.67,DS26,False,False
+R00517,Harish,Male,20,8,Scooter,20.2,0.945,3.9,DS02,False,False
+R00518,Rakesh,Male,29,9,Scooter,25.5,0.911,4.19,DS27,False,False
+R00519,Sandeep,Male,39,7,Scooter,25.5,0.959,3.39,DS14,False,False
+R00520,Sourabh,Male,22,1,Scooter,18.0,0.899,3.93,DS18,False,False
+R00521,Ajay,Male,38,6,Scooter,28.5,0.905,3.9,DS12,False,False
+R00522,Pankaj,Male,31,8,Scooter,14.235,0.7496,3.63,DS09,True,False
+R00523,Aman,Male,41,8,Scooter,23.2,0.967,4.4,DS21,False,False
+R00524,Harish,Male,32,3,Scooter,23.0,0.891,4.02,DS17,False,False
+R00525,Rohit,Male,44,2,Bicycle,15.9,0.951,4.07,DS20,False,False
+R00526,Ajay,Female,35,1,Electric Scooter,25.1,0.833,4.38,DS25,False,False
+R00527,Ajay,Male,44,4,Scooter,24.8,0.932,4.19,DS12,False,False
+R00528,Sachin,Male,37,10,Scooter,23.2,0.984,4.25,DS29,False,False
+R00529,Rahul,Male,19,3,Scooter,24.3,0.921,3.9,DS14,False,False
+R00530,Aman,Male,35,6,Bicycle,11.8,0.891,4.44,DS25,False,False
+R00531,Rakesh,Male,20,10,Scooter,25.9,0.968,3.43,DS26,False,False
+R00532,Karan,Male,40,10,Bicycle,16.9,0.984,3.82,DS11,False,False
+R00533,Rohit,Male,38,2,Scooter,23.2,0.923,3.89,DS02,False,False
+R00534,Sachin,Male,39,0,Scooter,18.5,0.945,4.51,DS28,False,False
+R00535,Rahul,Male,43,8,Bicycle,17.4,0.962,4.32,DS12,False,False
+R00536,Arjun,Male,39,9,Scooter,26.6,0.943,4.0,DS14,False,False
+R00537,Arjun,Male,42,1,Scooter,24.7,0.883,4.55,DS30,False,False
+R00538,Sourabh,Male,39,9,Bicycle,19.0,0.91,4.16,DS08,False,False
+R00539,Harish,Male,30,3,Electric Scooter,33.2,0.97,3.51,DS24,False,False
+R00540,Mohit,Male,27,3,Bicycle,13.8,0.865,4.47,DS27,False,False
+R00541,Karan,Male,34,6,Scooter,24.7,0.975,3.81,DS17,False,False
+R00542,Pankaj,Male,22,3,Electric Scooter,31.1,0.927,3.74,DS15,False,False
+R00543,Rakesh,Male,36,3,Scooter,27.9,0.92,4.29,DS05,False,False
+R00544,Yash,Male,29,4,Scooter,27.5,0.918,4.2,DS29,False,False
+R00545,Amit,Male,33,9,Scooter,25.7,0.978,4.26,DS23,False,False
+R00546,Rakesh,Male,21,3,Electric Scooter,32.8,0.921,3.95,DS11,False,False
+R00547,Sourabh,Male,38,3,Bicycle,14.3,0.898,3.34,DS21,False,False
+R00548,Harish,Male,40,8,Bicycle,16.8,0.953,3.65,DS11,False,False
+R00549,Sandeep,Male,42,1,Electric Scooter,25.3,0.907,3.9,DS09,False,False
+R00550,Sandeep,Male,23,4,Scooter,24.7,0.939,3.66,DS11,False,False
+R00551,Vikas,Male,20,7,Electric Scooter,28.4,0.915,4.55,DS13,False,False
+R00552,Amit,Male,23,9,Scooter,27.7,0.938,3.96,DS26,False,False
+R00553,Rahul,Female,33,5,Scooter,25.8,0.976,4.34,DS10,False,False
+R00554,Abhishek,Male,35,6,Electric Scooter,29.6,0.889,3.4,DS08,False,False
+R00555,Sachin,Female,26,8,Scooter,22.0,0.914,3.54,DS13,False,False
+R00556,Mohit,Male,27,0,Scooter,25.9,0.957,4.14,DS11,False,False
+R00557,Sourabh,Male,23,7,Bicycle,15.3,0.905,3.88,DS30,False,False
+R00558,Mohit,Male,31,9,Bicycle,19.4,0.965,4.99,DS17,False,False
+R00559,Pankaj,Male,32,7,Scooter,17.290000000000003,0.792,3.68,DS30,True,False
+R00560,Karan,Female,35,9,Scooter,25.8,0.968,3.84,DS24,False,False
+R00561,Abhishek,Male,35,7,Scooter,32.6,0.99,4.42,DS11,False,False
+R00562,Rohit,Female,44,0,Electric Scooter,34.9,0.923,3.89,DS14,False,False
+R00563,Sandeep,Male,22,6,Scooter,26.7,0.99,3.29,DS22,False,False
+R00564,Amit,Male,34,8,Scooter,25.0,0.972,4.55,DS22,False,False
+R00565,Deepak,Male,33,4,Electric Scooter,28.6,0.882,3.77,DS24,False,False
+R00566,Ajay,Male,41,4,Electric Scooter,32.5,0.944,3.69,DS23,False,False
+R00567,Karan,Male,29,9,Electric Scooter,32.8,0.96,4.2,DS16,False,False
+R00568,Sourabh,Male,45,4,Electric Scooter,31.2,0.908,4.11,DS28,False,False
+R00569,Pankaj,Male,41,4,Bicycle,17.2,0.881,3.56,DS20,False,False
+R00570,Rakesh,Male,33,8,Scooter,19.4,0.94,4.14,DS14,False,False
+R00571,Deepak,Male,40,6,Scooter,26.7,0.91,3.9,DS10,False,False
+R00572,Rakesh,Male,44,7,Electric Scooter,31.3,0.908,4.46,DS24,False,False
+R00573,Sandeep,Male,28,0,Scooter,24.6,0.846,3.89,DS17,False,False
+R00574,Karan,Male,27,2,Bicycle,12.0,0.967,4.05,DS06,False,False
+R00575,Ajay,Male,21,6,Electric Scooter,27.2,0.93,3.57,DS03,False,False
+R00576,Pankaj,Male,36,2,Scooter,26.4,0.865,3.92,DS18,False,False
+R00577,Manoj,Male,29,3,Scooter,25.3,0.932,4.26,DS17,False,False
+R00578,Sandeep,Male,28,7,Scooter,24.9,0.871,4.61,DS03,False,False
+R00579,Rohit,Male,31,8,Electric Scooter,30.4,0.941,4.4,DS29,False,False
+R00580,Nitin,Male,33,2,Scooter,24.2,0.867,4.07,DS24,False,False
+R00581,Pankaj,Male,40,0,Electric Scooter,21.2,0.938,3.11,DS29,False,False
+R00582,Arjun,Female,35,0,Scooter,27.2,0.935,3.87,DS01,False,False
+R00583,Karan,Male,39,2,Scooter,20.0,0.859,3.62,DS02,False,False
+R00584,Harish,Male,28,5,Electric Scooter,29.6,0.927,3.62,DS02,False,False
+R00585,Karan,Male,35,2,Bicycle,17.2,0.956,4.07,DS05,False,False
+R00586,Manoj,Male,35,10,Scooter,28.1,0.895,3.75,DS13,False,False
+R00587,Sourabh,Male,32,8,Scooter,25.0,0.867,4.14,DS18,False,False
+R00588,Vikas,Male,32,10,Scooter,24.9,0.99,4.65,DS06,False,False
+R00589,Karan,Male,36,1,Electric Scooter,31.2,0.943,3.73,DS17,False,False
+R00590,Sachin,Male,39,1,Scooter,24.6,0.891,4.47,DS07,False,False
+R00591,Rahul,Female,21,4,Scooter,26.5,0.986,3.49,DS09,False,False
+R00592,Rakesh,Male,40,4,Scooter,30.8,0.841,4.76,DS15,False,False
+R00593,Pankaj,Male,21,2,Electric Scooter,23.1,0.933,3.38,DS25,False,False
+R00594,Abhishek,Male,39,3,Electric Scooter,31.6,0.927,5.0,DS12,False,False
+R00595,Harish,Male,40,6,Scooter,25.4,0.859,4.36,DS08,False,False
+R00596,Karan,Female,39,9,Bicycle,16.2,0.903,3.84,DS19,False,False
+R00597,Rohit,Male,44,10,Scooter,27.5,0.961,3.89,DS16,False,False
+R00598,Sachin,Male,23,7,Scooter,25.6,0.915,3.61,DS16,False,False
+R00599,Manoj,Male,42,10,Electric Scooter,32.7,0.955,3.14,DS10,False,False
+R00600,Abhishek,Male,41,6,Scooter,25.3,0.912,3.62,DS07,False,False
+R00601,Harish,Female,34,4,Scooter,23.0,0.941,4.35,DS12,False,False
+R00602,Arjun,Male,38,9,Bicycle,15.0,0.904,3.27,DS26,False,False
+R00603,Sachin,Male,41,5,Scooter,28.5,0.867,4.13,DS06,False,False
+R00604,Pankaj,Male,32,7,Bicycle,14.9,0.937,3.67,DS14,False,False
+R00605,Manoj,Male,30,4,Bicycle,15.0,0.913,3.57,DS19,False,False
+R00606,Rohit,Male,22,6,Scooter,20.1,0.903,3.86,DS21,False,False
+R00607,Harish,Male,21,3,Bicycle,19.439999999999998,0.99,4.22,DS08,False,True
+R00608,Arjun,Female,29,10,Electric Scooter,32.16,0.99,4.43,DS15,False,True
+R00609,Manoj,Male,33,5,Electric Scooter,30.5,0.904,4.52,DS05,False,False
+R00610,Pankaj,Male,28,3,Electric Scooter,31.5,0.866,3.81,DS03,False,False
+R00611,Rahul,Male,35,0,Electric Scooter,22.8,0.878,4.14,DS29,False,False
+R00612,Nitin,Male,26,5,Bicycle,13.1,0.981,3.57,DS13,False,False
+R00613,Abhishek,Male,21,6,Electric Scooter,32.0,0.863,4.6,DS19,False,False
+R00614,Karan,Female,32,1,Scooter,27.9,0.931,3.4,DS24,False,False
+R00615,Yash,Male,27,6,Bicycle,10.4,0.909,4.64,DS24,False,False
+R00616,Deepak,Male,27,8,Bicycle,17.5,0.941,4.39,DS16,False,False
+R00617,Vikas,Male,19,7,Electric Scooter,21.97,0.7080000000000001,4.18,DS04,True,False
+R00618,Ajay,Female,31,9,Scooter,28.8,0.953,4.05,DS30,False,False
+R00619,Abhishek,Male,37,0,Scooter,29.3,0.911,3.67,DS21,False,False
+R00620,Sandeep,Male,44,4,Electric Scooter,30.0,0.859,4.11,DS10,False,False
+R00621,Rahul,Female,38,9,Electric Scooter,30.6,0.934,4.16,DS30,False,False
+R00622,Ajay,Male,43,10,Electric Scooter,28.6,0.99,3.43,DS15,False,False
+R00623,Sourabh,Male,23,7,Bicycle,14.4,0.953,3.73,DS23,False,False
+R00624,Karan,Male,28,2,Scooter,22.2,0.923,4.47,DS13,False,False
+R00625,Sourabh,Male,40,4,Bicycle,15.3,0.896,2.98,DS27,False,False
+R00626,Sachin,Male,26,3,Scooter,30.5,0.863,3.73,DS01,False,False
+R00627,Rakesh,Male,33,2,Scooter,27.9,0.826,3.9,DS26,False,False
+R00628,Rohit,Male,24,6,Electric Scooter,28.3,0.88,3.73,DS26,False,False
+R00629,Rakesh,Male,35,0,Scooter,21.5,0.914,3.45,DS22,False,False
+R00630,Pankaj,Male,28,1,Scooter,22.0,0.88,4.2,DS26,False,False
+R00631,Rahul,Male,31,8,Scooter,28.1,0.899,3.93,DS23,False,False
+R00632,Ajay,Male,24,1,Bicycle,10.1,0.832,4.54,DS03,False,False
+R00633,Karan,Male,37,5,Scooter,19.6,0.927,3.98,DS22,False,False
+R00634,Manoj,Male,30,10,Scooter,33.96,0.99,4.44,DS25,False,True
+R00635,Rohit,Male,24,0,Electric Scooter,31.0,0.9,4.08,DS02,False,False
+R00636,Nitin,Male,44,5,Scooter,23.6,0.928,3.99,DS05,False,False
+R00637,Manoj,Male,34,3,Electric Scooter,31.7,0.899,4.3,DS04,False,False
+R00638,Arjun,Female,25,7,Bicycle,12.5,0.947,3.87,DS30,False,False
+R00639,Sachin,Female,44,8,Scooter,29.7,0.99,4.43,DS06,False,False
+R00640,Rohit,Male,25,10,Scooter,20.215,0.7496,3.64,DS16,True,False
+R00641,Sourabh,Male,21,3,Scooter,28.6,0.956,4.12,DS26,False,False
+R00642,Rohit,Male,23,5,Scooter,26.2,0.957,3.71,DS08,False,False
+R00643,Karan,Male,21,5,Scooter,28.7,0.947,3.91,DS20,False,False
+R00644,Mohit,Male,24,9,Electric Scooter,23.2,0.897,3.76,DS07,False,False
+R00645,Amit,Male,33,4,Electric Scooter,31.7,0.915,4.74,DS15,False,False
+R00646,Deepak,Male,24,5,Scooter,26.3,0.936,4.03,DS20,False,False
+R00647,Arjun,Male,28,2,Electric Scooter,26.8,0.883,3.85,DS10,False,False
+R00648,Sandeep,Male,25,7,Electric Scooter,28.4,0.92,3.85,DS02,False,False
+R00649,Mohit,Male,28,10,Scooter,19.8,0.93,4.1,DS21,False,False
+R00650,Deepak,Male,30,5,Scooter,24.7,0.928,4.33,DS05,False,False
+R00651,Rahul,Male,32,10,Bicycle,15.6,0.99,4.0,DS17,False,False
+R00652,Ajay,Female,37,9,Scooter,29.3,0.852,4.56,DS15,False,False
+R00653,Nitin,Male,35,5,Scooter,35.3,0.885,4.16,DS28,False,False
+R00654,Rakesh,Male,33,0,Scooter,22.0,0.895,4.11,DS27,False,False
+R00655,Nitin,Male,43,9,Electric Scooter,29.0,0.972,3.43,DS01,False,False
+R00656,Arjun,Male,33,4,Bicycle,15.7,0.88,4.88,DS03,False,False
+R00657,Yash,Male,44,10,Bicycle,17.4,0.933,3.81,DS13,False,False
+R00658,Sachin,Female,34,6,Scooter,22.4,0.923,3.73,DS22,False,False
+R00659,Karan,Male,44,0,Electric Scooter,29.8,0.849,3.66,DS28,False,False
+R00660,Sourabh,Male,26,6,Electric Scooter,35.3,0.99,3.63,DS30,False,False
+R00661,Manoj,Male,29,5,Scooter,25.5,0.973,4.23,DS30,False,False
+R00662,Ajay,Male,29,1,Scooter,24.6,0.921,4.75,DS14,False,False
+R00663,Ajay,Male,27,9,Bicycle,16.1,0.92,3.7,DS19,False,False
+R00664,Pankaj,Male,27,3,Electric Scooter,29.8,0.88,3.94,DS21,False,False
+R00665,Vikas,Female,28,8,Scooter,24.7,0.91,3.19,DS27,False,False
+R00666,Rohit,Male,31,5,Bicycle,13.5,0.99,3.7,DS23,False,False
+R00667,Sachin,Male,42,9,Electric Scooter,31.3,0.961,4.38,DS14,False,False
+R00668,Vikas,Male,32,4,Scooter,23.6,0.845,4.84,DS12,False,False
+R00669,Pankaj,Male,41,3,Electric Scooter,23.6,0.941,3.55,DS06,False,False
+R00670,Ajay,Male,31,5,Scooter,21.7,0.907,3.76,DS04,False,False
+R00671,Rohit,Female,28,0,Scooter,23.9,0.863,4.06,DS10,False,False
+R00672,Ajay,Male,34,8,Scooter,24.0,0.966,4.02,DS26,False,False
+R00673,Manoj,Female,30,3,Bicycle,17.7,0.913,4.86,DS08,False,False
+R00674,Aman,Male,29,7,Electric Scooter,33.3,0.981,4.12,DS07,False,False
+R00675,Harish,Male,23,0,Scooter,26.3,0.891,3.99,DS29,False,False
+R00676,Rahul,Male,28,1,Scooter,26.2,0.913,4.13,DS28,False,False
+R00677,Vikas,Male,29,8,Scooter,26.1,0.952,3.89,DS30,False,False
+R00678,Aman,Female,20,9,Electric Scooter,31.4,0.907,4.4,DS10,False,False
+R00679,Abhishek,Female,32,5,Scooter,23.9,0.924,3.68,DS21,False,False
+R00680,Amit,Male,43,8,Scooter,28.9,0.948,4.14,DS03,False,False
+R00681,Ajay,Male,30,8,Scooter,24.8,0.876,4.0,DS26,False,False
+R00682,Yash,Male,35,0,Electric Scooter,32.1,0.872,3.7,DS19,False,False
+R00683,Abhishek,Male,36,3,Scooter,17.9,0.939,3.65,DS26,False,False
+R00684,Rohit,Male,27,10,Electric Scooter,26.2,0.99,3.99,DS18,False,False
+R00685,Aman,Male,34,7,Scooter,27.2,0.968,4.58,DS03,False,False
+R00686,Karan,Male,29,10,Scooter,29.2,0.939,4.41,DS29,False,False
+R00687,Sourabh,Male,42,7,Scooter,25.9,0.927,3.28,DS27,False,False
+R00688,Sourabh,Male,44,7,Scooter,25.4,0.946,4.16,DS10,False,False
+R00689,Harish,Male,31,10,Scooter,28.4,0.942,4.35,DS08,False,False
+R00690,Aman,Male,34,8,Scooter,23.4,0.871,4.0,DS19,False,False
+R00691,Aman,Male,26,2,Bicycle,15.7,0.933,3.62,DS21,False,False
+R00692,Amit,Male,44,8,Scooter,25.6,0.959,4.42,DS26,False,False
+R00693,Arjun,Female,27,9,Scooter,25.9,0.966,4.41,DS03,False,False
+R00694,Rakesh,Male,32,1,Scooter,20.1,0.88,4.89,DS20,False,False
+R00695,Rahul,Male,44,6,Scooter,29.2,0.967,4.73,DS21,False,False
+R00696,Yash,Male,28,0,Electric Scooter,29.0,0.96,4.19,DS16,False,False
+R00697,Abhishek,Male,19,4,Scooter,27.8,0.924,4.02,DS28,False,False
+R00698,Rakesh,Male,29,0,Scooter,29.8,0.915,3.64,DS20,False,False
+R00699,Manoj,Male,25,9,Electric Scooter,37.4,0.891,4.64,DS19,False,False
+R00700,Amit,Male,38,0,Scooter,21.1,0.947,3.79,DS22,False,False
+R00701,Yash,Male,38,0,Bicycle,16.3,0.897,4.79,DS08,False,False
+R00702,Manoj,Male,29,10,Scooter,32.4,0.922,3.7,DS13,False,False
+R00703,Abhishek,Male,24,9,Scooter,32.5,0.963,4.11,DS04,False,False
+R00704,Pankaj,Male,36,0,Electric Scooter,28.6,0.883,4.2,DS05,False,False
+R00705,Amit,Male,27,7,Scooter,23.4,0.934,3.74,DS23,False,False
+R00706,Manoj,Male,37,2,Electric Scooter,25.5,0.955,4.53,DS29,False,False
+R00707,Aman,Male,34,0,Scooter,24.8,0.857,4.1,DS14,False,False
+R00708,Nitin,Male,35,7,Bicycle,19.9,0.977,3.62,DS02,False,False
+R00709,Rakesh,Male,37,8,Scooter,27.1,0.99,4.18,DS23,False,False
+R00710,Mohit,Male,39,9,Scooter,22.8,0.924,4.19,DS04,False,False
+R00711,Rakesh,Male,35,8,Bicycle,15.0,0.9,4.27,DS01,False,False
+R00712,Sachin,Male,35,4,Scooter,16.9,0.932,3.26,DS11,False,False
+R00713,Yash,Male,31,1,Scooter,22.8,0.887,3.99,DS12,False,False
+R00714,Deepak,Male,21,6,Scooter,28.6,0.938,4.64,DS25,False,False
+R00715,Manoj,Male,35,0,Scooter,25.9,0.899,3.99,DS07,False,False
+R00716,Manoj,Male,37,4,Scooter,26.4,0.978,4.27,DS11,False,False
+R00717,Nitin,Male,43,0,Electric Scooter,26.4,0.908,4.59,DS06,False,False
+R00718,Mohit,Male,40,6,Electric Scooter,34.3,0.917,4.51,DS06,False,False
+R00719,Ajay,Male,27,10,Electric Scooter,32.0,0.933,3.72,DS18,False,False
+R00720,Sandeep,Female,21,0,Scooter,25.8,0.914,3.45,DS02,False,False
+R00721,Vikas,Male,39,0,Electric Scooter,29.4,0.881,3.88,DS22,False,False
+R00722,Manoj,Male,24,2,Bicycle,9.4,0.99,4.48,DS30,False,False
+R00723,Sourabh,Male,20,0,Scooter,25.5,0.839,3.6,DS26,False,False
+R00724,Yash,Male,36,2,Bicycle,17.5,0.896,4.14,DS04,False,False
+R00725,Ajay,Female,42,4,Scooter,27.7,0.878,3.36,DS18,False,False
+R00726,Vikas,Male,40,3,Scooter,26.8,0.965,3.89,DS22,False,False
+R00727,Sourabh,Male,29,7,Bicycle,16.0,0.922,3.74,DS18,False,False
+R00728,Rohit,Male,24,10,Scooter,33.5,0.974,3.56,DS27,False,False
+R00729,Rohit,Male,44,0,Electric Scooter,32.7,0.878,4.47,DS11,False,False
+R00730,Abhishek,Male,19,4,Scooter,29.4,0.961,4.18,DS02,False,False
+R00731,Vikas,Male,35,2,Scooter,28.4,0.918,3.52,DS09,False,False
+R00732,Harish,Female,24,8,Electric Scooter,18.2,0.7400000000000001,4.7,DS18,True,False
+R00733,Sourabh,Male,27,4,Electric Scooter,31.8,0.944,3.88,DS20,False,False
+R00734,Sachin,Female,22,0,Scooter,30.3,0.867,2.92,DS11,False,False
+R00735,Mohit,Male,28,3,Electric Scooter,28.9,0.99,4.12,DS30,False,False
+R00736,Sachin,Male,26,9,Electric Scooter,31.9,0.911,4.16,DS07,False,False
+R00737,Arjun,Male,39,9,Scooter,25.5,0.972,3.81,DS17,False,False
+R00738,Nitin,Male,24,4,Bicycle,12.2,0.963,3.69,DS12,False,False
+R00739,Ajay,Female,39,5,Scooter,27.6,0.851,3.73,DS10,False,False
+R00740,Rakesh,Male,27,5,Scooter,23.5,0.93,3.99,DS25,False,False
+R00741,Arjun,Male,32,3,Electric Scooter,30.8,0.923,4.2,DS18,False,False
+R00742,Sandeep,Male,38,9,Bicycle,10.66,0.7704,4.29,DS21,True,False
+R00743,Arjun,Male,25,6,Electric Scooter,30.3,0.99,4.14,DS15,False,False
+R00744,Karan,Male,40,7,Scooter,21.4,0.979,3.75,DS26,False,False
+R00745,Sourabh,Female,30,5,Bicycle,16.7,0.89,3.82,DS09,False,False
+R00746,Rakesh,Male,41,1,Scooter,27.8,0.921,4.69,DS21,False,False
+R00747,Amit,Male,20,1,Scooter,33.5,0.888,4.14,DS11,False,False
+R00748,Mohit,Female,45,10,Electric Scooter,26.9,0.945,4.32,DS26,False,False
+R00749,Ajay,Male,45,10,Electric Scooter,33.7,0.949,3.41,DS07,False,False
+R00750,Deepak,Male,28,0,Scooter,28.439999999999998,0.99,4.85,DS13,False,True
+R00751,Rohit,Male,38,9,Electric Scooter,27.1,0.931,4.12,DS15,False,False
+R00752,Rohit,Male,44,1,Scooter,26.7,0.907,3.42,DS19,False,False
+R00753,Aman,Female,34,6,Scooter,22.0,0.934,3.9,DS18,False,False
+R00754,Amit,Male,40,0,Scooter,23.0,0.869,4.36,DS02,False,False
+R00755,Karan,Male,30,5,Electric Scooter,27.7,0.965,3.77,DS21,False,False
+R00756,Amit,Male,28,5,Scooter,22.0,0.869,3.71,DS29,False,False
+R00757,Manoj,Male,19,6,Electric Scooter,20.67,0.7568,3.59,DS26,True,False
+R00758,Amit,Male,43,6,Electric Scooter,29.5,0.935,4.79,DS20,False,False
+R00759,Sourabh,Male,41,4,Bicycle,15.9,0.927,3.91,DS07,False,False
+R00760,Harish,Male,30,8,Scooter,27.1,0.958,3.92,DS15,False,False
+R00761,Rahul,Male,21,9,Bicycle,14.8,0.934,3.83,DS20,False,False
+R00762,Rohit,Male,34,6,Scooter,26.0,0.868,3.07,DS13,False,False
+R00763,Mohit,Male,26,5,Electric Scooter,25.3,0.932,3.4,DS11,False,False
+R00764,Karan,Male,27,7,Electric Scooter,26.3,0.931,4.07,DS22,False,False
+R00765,Abhishek,Male,24,10,Electric Scooter,33.4,0.99,4.5,DS11,False,False
+R00766,Nitin,Male,44,3,Scooter,14.755,0.7128000000000001,3.47,DS04,True,False
+R00767,Manoj,Male,39,6,Scooter,28.0,0.967,4.45,DS17,False,False
+R00768,Rahul,Male,25,3,Scooter,26.8,0.848,3.5,DS10,False,False
+R00769,Pankaj,Female,24,6,Electric Scooter,27.5,0.965,3.67,DS09,False,False
+R00770,Manoj,Male,36,5,Scooter,25.8,0.99,4.46,DS25,False,False
+R00771,Aman,Male,19,1,Scooter,24.1,0.943,4.11,DS21,False,False
+R00772,Sandeep,Male,29,10,Electric Scooter,27.0,0.899,3.85,DS09,False,False
+R00773,Mohit,Male,25,6,Electric Scooter,25.8,0.891,3.57,DS13,False,False
+R00774,Pankaj,Male,36,7,Bicycle,15.2,0.94,4.16,DS21,False,False
+R00775,Harish,Male,25,10,Bicycle,14.9,0.89,3.67,DS04,False,False
+R00776,Vikas,Male,38,7,Bicycle,13.5,0.873,4.19,DS25,False,False
+R00777,Ajay,Male,42,10,Scooter,22.1,0.976,4.01,DS27,False,False
+R00778,Aman,Male,41,2,Scooter,27.9,0.875,3.84,DS30,False,False
+R00779,Manoj,Male,36,3,Bicycle,16.4,0.901,3.65,DS16,False,False
+R00780,Rohit,Male,27,10,Scooter,29.0,0.965,3.93,DS25,False,False
+R00781,Karan,Male,36,3,Scooter,26.4,0.968,3.74,DS03,False,False
+R00782,Sourabh,Male,25,0,Bicycle,15.1,0.935,3.62,DS05,False,False
+R00783,Rakesh,Male,29,10,Electric Scooter,28.6,0.955,4.04,DS21,False,False
+R00784,Deepak,Male,29,8,Electric Scooter,33.0,0.915,3.75,DS25,False,False
+R00785,Pankaj,Male,24,9,Electric Scooter,34.2,0.898,3.96,DS02,False,False
+R00786,Pankaj,Male,27,5,Electric Scooter,32.6,0.919,4.03,DS14,False,False
+R00787,Sachin,Male,40,3,Scooter,23.1,0.901,3.73,DS29,False,False
+R00788,Mohit,Male,22,8,Scooter,30.3,0.974,4.5,DS13,False,False
+R00789,Karan,Female,44,4,Electric Scooter,32.9,0.924,4.59,DS07,False,False
+R00790,Nitin,Male,20,5,Electric Scooter,28.7,0.941,4.02,DS30,False,False
+R00791,Deepak,Female,19,1,Scooter,25.0,0.963,4.39,DS14,False,False
+R00792,Manoj,Male,20,7,Electric Scooter,28.4,0.938,4.68,DS20,False,False
+R00793,Sachin,Male,23,5,Scooter,23.8,0.99,4.06,DS03,False,False
+R00794,Aman,Male,31,6,Scooter,26.9,0.946,4.03,DS06,False,False
+R00795,Amit,Male,44,0,Scooter,20.9,0.831,3.99,DS29,False,False
+R00796,Mohit,Male,39,5,Electric Scooter,30.9,0.905,3.75,DS13,False,False
+R00797,Deepak,Male,41,3,Electric Scooter,27.1,0.903,4.56,DS19,False,False
+R00798,Manoj,Male,31,10,Electric Scooter,33.3,0.964,3.58,DS05,False,False
+R00799,Rakesh,Male,30,10,Scooter,21.6,0.963,4.13,DS20,False,False
+R00800,Ajay,Male,27,10,Bicycle,12.2,0.888,3.52,DS01,False,False
+R00801,Sourabh,Male,19,10,Scooter,30.4,0.984,3.87,DS04,False,False
+R00802,Abhishek,Male,43,3,Scooter,12.805,0.7488000000000001,4.28,DS21,True,False
+R00803,Mohit,Male,40,5,Bicycle,15.7,0.867,3.35,DS12,False,False
+R00804,Vikas,Male,34,1,Scooter,23.5,0.886,4.08,DS18,False,False
+R00805,Mohit,Male,21,1,Bicycle,14.0,0.928,2.84,DS08,False,False
+R00806,Aman,Male,30,0,Bicycle,9.9,0.899,3.72,DS02,False,False
+R00807,Rakesh,Male,37,5,Electric Scooter,28.8,0.96,4.59,DS04,False,False
+R00808,Deepak,Female,35,2,Electric Scooter,25.6,0.884,3.74,DS15,False,False
+R00809,Manoj,Female,34,6,Scooter,28.2,0.888,3.76,DS30,False,False
+R00810,Rohit,Male,38,8,Bicycle,17.1,0.99,3.74,DS24,False,False
+R00811,Sandeep,Male,43,2,Bicycle,17.6,0.881,4.31,DS13,False,False
+R00812,Harish,Male,28,3,Scooter,24.2,0.869,4.07,DS15,False,False
+R00813,Arjun,Male,26,0,Electric Scooter,31.799999999999997,0.99,4.33,DS02,False,True
+R00814,Mohit,Male,34,2,Electric Scooter,30.7,0.983,3.85,DS20,False,False
+R00815,Rohit,Male,28,8,Electric Scooter,29.4,0.895,4.17,DS23,False,False
+R00816,Karan,Male,28,2,Electric Scooter,31.3,0.987,4.1,DS26,False,False
+R00817,Sachin,Male,27,4,Scooter,23.5,0.943,3.25,DS02,False,False
+R00818,Sandeep,Male,31,7,Electric Scooter,41.279999999999994,0.99,4.32,DS08,False,True
+R00819,Vikas,Male,30,4,Scooter,26.9,0.888,3.29,DS11,False,False
+R00820,Ajay,Male,21,7,Scooter,32.04,0.99,4.17,DS11,False,True
+R00821,Rahul,Male,39,3,Electric Scooter,36.96,0.99,3.89,DS18,False,True
+R00822,Mohit,Male,27,5,Bicycle,17.7,0.946,4.67,DS22,False,False
+R00823,Abhishek,Male,32,0,Bicycle,12.3,0.842,4.32,DS24,False,False
+R00824,Yash,Male,35,5,Electric Scooter,34.0,0.941,3.89,DS07,False,False
+R00825,Amit,Male,26,3,Scooter,23.3,0.928,4.35,DS14,False,False
+R00826,Ajay,Male,26,6,Scooter,22.9,0.945,4.52,DS22,False,False
+R00827,Rohit,Male,24,0,Bicycle,12.6,0.902,3.98,DS05,False,False
+R00828,Aman,Male,29,5,Scooter,26.8,0.971,3.45,DS22,False,False
+R00829,Deepak,Male,22,7,Electric Scooter,30.4,0.97,3.77,DS04,False,False
+R00830,Harish,Male,34,9,Scooter,31.56,0.99,4.21,DS27,False,True
+R00831,Arjun,Male,21,9,Scooter,33.1,0.898,3.61,DS10,False,False
+R00832,Manoj,Female,25,1,Bicycle,15.2,0.886,3.24,DS20,False,False
+R00833,Ajay,Male,40,2,Electric Scooter,33.4,0.963,3.98,DS29,False,False
+R00834,Aman,Male,25,5,Electric Scooter,29.5,0.906,3.59,DS16,False,False
+R00835,Arjun,Male,33,5,Scooter,28.2,0.906,3.53,DS11,False,False
+R00836,Sandeep,Male,32,2,Scooter,24.8,0.944,4.63,DS21,False,False
+R00837,Nitin,Male,33,2,Electric Scooter,24.2,0.913,3.85,DS22,False,False
+R00838,Amit,Male,43,2,Scooter,26.8,0.988,4.58,DS16,False,False
+R00839,Sourabh,Male,26,8,Electric Scooter,27.3,0.904,4.24,DS22,False,False
+R00840,Sachin,Male,28,5,Electric Scooter,35.7,0.92,3.28,DS29,False,False
+R00841,Nitin,Male,20,7,Electric Scooter,32.4,0.974,4.38,DS30,False,False
+R00842,Arjun,Male,21,4,Scooter,26.0,0.967,3.73,DS17,False,False
+R00843,Amit,Male,27,8,Scooter,25.5,0.906,3.1,DS19,False,False
+R00844,Rahul,Male,26,6,Bicycle,16.2,0.924,4.28,DS21,False,False
+R00845,Aman,Male,39,3,Scooter,25.9,0.905,3.6,DS29,False,False
+R00846,Harish,Male,31,10,Scooter,30.5,0.945,4.66,DS21,False,False
+R00847,Rakesh,Male,21,9,Bicycle,17.1,0.892,3.33,DS03,False,False
+R00848,Yash,Male,37,8,Scooter,26.5,0.919,3.88,DS26,False,False
+R00849,Vikas,Male,30,4,Electric Scooter,23.4,0.904,3.7,DS11,False,False
+R00850,Amit,Male,34,6,Bicycle,18.5,0.988,3.89,DS16,False,False
+R00851,Mohit,Male,40,5,Bicycle,15.5,0.88,3.91,DS21,False,False
+R00852,Rakesh,Male,19,4,Scooter,30.7,0.905,3.63,DS08,False,False
+R00853,Harish,Male,22,10,Bicycle,16.3,0.872,4.16,DS05,False,False
+R00854,Karan,Male,28,4,Scooter,30.4,0.926,4.69,DS04,False,False
+R00855,Rohit,Female,36,5,Scooter,24.8,0.9,4.03,DS29,False,False
+R00856,Ajay,Male,31,9,Bicycle,16.4,0.954,3.91,DS05,False,False
+R00857,Rakesh,Male,20,9,Bicycle,16.5,0.99,4.01,DS15,False,False
+R00858,Mohit,Male,39,3,Scooter,19.6,0.897,3.46,DS25,False,False
+R00859,Rahul,Female,33,0,Electric Scooter,28.3,0.884,4.33,DS17,False,False
+R00860,Aman,Female,27,4,Scooter,25.1,0.847,4.5,DS22,False,False
+R00861,Pankaj,Male,36,8,Electric Scooter,33.6,0.98,3.99,DS14,False,False
+R00862,Sourabh,Male,40,7,Scooter,26.4,0.91,3.59,DS07,False,False
+R00863,Pankaj,Female,30,9,Scooter,28.8,0.889,4.44,DS23,False,False
+R00864,Ajay,Male,32,7,Scooter,27.4,0.926,4.57,DS03,False,False
+R00865,Sandeep,Male,35,4,Scooter,26.7,0.903,3.51,DS27,False,False
+R00866,Sourabh,Male,32,2,Electric Scooter,27.0,0.925,4.18,DS30,False,False
+R00867,Deepak,Male,38,0,Electric Scooter,24.1,0.906,3.62,DS03,False,False
+R00868,Amit,Female,24,7,Electric Scooter,27.5,0.895,4.18,DS17,False,False
+R00869,Vikas,Male,44,7,Bicycle,16.5,0.969,4.03,DS02,False,False
+R00870,Amit,Male,29,8,Scooter,27.9,0.99,3.61,DS13,False,False
+R00871,Rahul,Male,37,4,Bicycle,15.0,0.947,4.2,DS02,False,False
+R00872,Pankaj,Female,32,6,Scooter,21.4,0.891,3.78,DS19,False,False
+R00873,Rahul,Male,36,9,Scooter,33.2,0.924,3.44,DS19,False,False
+R00874,Rahul,Male,26,3,Scooter,22.0,0.99,3.83,DS20,False,False
+R00875,Amit,Male,36,10,Electric Scooter,35.0,0.967,3.86,DS20,False,False
+R00876,Deepak,Male,29,1,Scooter,23.3,0.831,3.95,DS02,False,False
+R00877,Abhishek,Male,35,2,Electric Scooter,31.3,0.821,3.86,DS28,False,False
+R00878,Sourabh,Male,40,4,Electric Scooter,28.9,0.876,4.01,DS18,False,False
+R00879,Aman,Male,45,5,Bicycle,12.7,0.917,3.6,DS26,False,False
+R00880,Abhishek,Male,36,0,Scooter,27.6,0.919,4.41,DS14,False,False
+R00881,Karan,Male,29,1,Electric Scooter,27.5,0.939,4.22,DS09,False,False
+R00882,Sourabh,Male,37,2,Scooter,23.1,0.944,4.23,DS10,False,False
+R00883,Deepak,Male,30,1,Scooter,27.6,0.883,4.52,DS18,False,False
+R00884,Ajay,Male,29,7,Electric Scooter,34.1,0.924,4.26,DS07,False,False
+R00885,Rahul,Male,34,2,Scooter,25.1,0.926,4.11,DS20,False,False
+R00886,Aman,Male,23,0,Scooter,26.2,0.898,3.9,DS24,False,False
+R00887,Sandeep,Male,37,9,Electric Scooter,29.8,0.971,3.11,DS11,False,False
+R00888,Rohit,Male,31,7,Bicycle,12.1,0.908,3.85,DS13,False,False
+R00889,Pankaj,Male,45,8,Electric Scooter,32.0,0.962,3.89,DS03,False,False
+R00890,Abhishek,Male,38,2,Bicycle,12.9,0.827,4.47,DS14,False,False
+R00891,Mohit,Male,41,1,Scooter,22.1,0.942,4.58,DS22,False,False
+R00892,Karan,Female,20,2,Scooter,23.6,0.863,4.68,DS06,False,False
+R00893,Nitin,Male,35,4,Scooter,26.5,0.96,3.98,DS29,False,False
+R00894,Vikas,Male,44,8,Scooter,19.6,0.936,4.9,DS09,False,False
+R00895,Aman,Male,24,2,Scooter,19.1,0.905,3.97,DS21,False,False
+R00896,Pankaj,Male,23,0,Scooter,25.6,0.835,4.64,DS13,False,False
+R00897,Vikas,Male,45,0,Scooter,18.5,0.933,4.03,DS29,False,False
+R00898,Rakesh,Male,29,9,Scooter,28.4,0.925,4.2,DS08,False,False
+R00899,Manoj,Male,20,6,Electric Scooter,33.1,0.938,4.63,DS14,False,False
+R00900,Rahul,Male,27,10,Scooter,28.1,0.926,4.96,DS24,False,False
+R00901,Rohit,Male,25,3,Bicycle,12.8,0.939,4.41,DS26,False,False
+R00902,Vikas,Female,37,2,Bicycle,11.6,0.988,4.11,DS17,False,False
+R00903,Ajay,Male,19,3,Electric Scooter,26.5,0.901,3.8,DS18,False,False
+R00904,Pankaj,Female,20,2,Scooter,25.5,0.892,3.94,DS21,False,False
+R00905,Abhishek,Male,21,6,Scooter,25.439999999999998,0.99,4.0,DS26,False,True
+R00906,Nitin,Male,19,7,Scooter,26.1,0.935,3.61,DS06,False,False
+R00907,Sandeep,Male,27,9,Scooter,26.3,0.99,4.0,DS15,False,False
+R00908,Ajay,Male,25,7,Electric Scooter,31.9,0.901,3.0,DS20,False,False
+R00909,Sourabh,Male,28,7,Scooter,26.2,0.902,3.59,DS10,False,False
+R00910,Harish,Male,21,3,Scooter,25.5,0.928,3.96,DS02,False,False
+R00911,Sandeep,Male,19,0,Electric Scooter,29.3,0.947,4.0,DS04,False,False
+R00912,Vikas,Male,40,6,Electric Scooter,32.8,0.829,4.37,DS23,False,False
+R00913,Ajay,Male,45,6,Electric Scooter,24.4,0.949,4.63,DS25,False,False
+R00914,Amit,Male,44,2,Electric Scooter,28.5,0.909,4.54,DS17,False,False
+R00915,Nitin,Male,21,5,Scooter,21.2,0.943,3.69,DS16,False,False
+R00916,Amit,Male,37,10,Electric Scooter,36.4,0.964,3.29,DS08,False,False
+R00917,Manoj,Female,43,10,Electric Scooter,30.0,0.99,4.03,DS26,False,False
+R00918,Abhishek,Male,39,4,Electric Scooter,33.6,0.893,3.95,DS04,False,False
+R00919,Sachin,Male,23,6,Scooter,22.7,0.917,4.71,DS21,False,False
+R00920,Rakesh,Male,28,7,Scooter,36.5,0.876,4.08,DS05,False,False
+R00921,Yash,Male,26,0,Bicycle,14.4,0.91,4.14,DS29,False,False
+R00922,Rohit,Male,43,4,Electric Scooter,30.4,0.871,4.32,DS02,False,False
+R00923,Pankaj,Male,34,1,Bicycle,14.6,0.86,3.72,DS23,False,False
+R00924,Rohit,Male,40,4,Scooter,30.9,0.894,3.77,DS12,False,False
+R00925,Sachin,Male,31,10,Scooter,27.4,0.932,3.46,DS21,False,False
+R00926,Rohit,Male,24,10,Scooter,27.3,0.922,4.02,DS30,False,False
+R00927,Pankaj,Male,45,6,Scooter,29.639999999999997,0.99,3.16,DS03,False,True
+R00928,Harish,Male,29,7,Scooter,25.0,0.982,3.8,DS26,False,False
+R00929,Rohit,Male,38,2,Scooter,28.9,0.949,3.84,DS15,False,False
+R00930,Ajay,Male,19,1,Scooter,25.9,0.865,3.76,DS22,False,False
+R00931,Amit,Female,34,7,Bicycle,13.9,0.867,3.97,DS20,False,False
+R00932,Vikas,Male,43,8,Scooter,25.1,0.984,4.28,DS03,False,False
+R00933,Aman,Male,30,1,Scooter,23.1,0.865,4.46,DS12,False,False
+R00934,Sourabh,Male,41,10,Electric Scooter,28.0,0.927,3.72,DS24,False,False
+R00935,Deepak,Male,25,3,Electric Scooter,33.9,0.891,4.31,DS27,False,False
+R00936,Ajay,Male,32,5,Electric Scooter,26.5,0.904,4.25,DS17,False,False
+R00937,Nitin,Female,23,2,Electric Scooter,36.839999999999996,0.99,4.28,DS16,False,True
+R00938,Sandeep,Male,28,4,Scooter,23.9,0.934,3.57,DS13,False,False
+R00939,Deepak,Male,42,3,Bicycle,16.3,0.883,3.6,DS17,False,False
+R00940,Yash,Male,36,10,Scooter,28.0,0.961,2.96,DS22,False,False
+R00941,Sandeep,Male,45,9,Electric Scooter,36.6,0.988,3.96,DS14,False,False
+R00942,Vikas,Male,40,9,Scooter,26.1,0.876,4.09,DS03,False,False
+R00943,Harish,Male,37,8,Electric Scooter,29.7,0.901,4.48,DS17,False,False
+R00944,Harish,Female,29,0,Electric Scooter,27.2,0.828,3.95,DS29,False,False
+R00945,Yash,Female,33,8,Scooter,28.0,0.957,4.43,DS22,False,False
+R00946,Yash,Male,20,1,Scooter,24.9,0.983,4.11,DS18,False,False
+R00947,Yash,Male,26,10,Electric Scooter,31.7,0.984,3.79,DS28,False,False
+R00948,Sandeep,Male,25,4,Bicycle,12.8,0.99,3.87,DS06,False,False
+R00949,Pankaj,Male,30,7,Scooter,26.4,0.936,3.82,DS22,False,False
+R00950,Manoj,Male,20,0,Electric Scooter,34.8,0.906,4.15,DS06,False,False
+R00951,Mohit,Male,23,2,Scooter,28.7,0.86,4.33,DS14,False,False
+R00952,Aman,Female,39,10,Scooter,15.47,0.7360000000000001,4.57,DS05,True,False
+R00953,Abhishek,Male,24,2,Electric Scooter,26.0,0.914,3.61,DS23,False,False
+R00954,Karan,Male,45,1,Bicycle,13.2,0.879,4.44,DS12,False,False
+R00955,Mohit,Male,22,9,Electric Scooter,29.0,0.865,3.72,DS14,False,False
+R00956,Aman,Male,30,9,Scooter,27.7,0.9,3.24,DS26,False,False
+R00957,Sourabh,Male,25,3,Scooter,24.0,0.856,3.0,DS25,False,False
+R00958,Aman,Male,43,3,Scooter,26.5,0.982,3.18,DS24,False,False
+R00959,Deepak,Male,39,5,Scooter,23.5,0.931,4.59,DS16,False,False
+R00960,Sandeep,Male,29,5,Bicycle,18.2,0.921,4.75,DS07,False,False
+R00961,Rakesh,Male,44,1,Scooter,16.7,0.838,3.86,DS22,False,False
+R00962,Vikas,Male,35,10,Electric Scooter,26.7,0.887,4.0,DS24,False,False
+R00963,Manoj,Male,34,9,Bicycle,17.3,0.914,3.84,DS25,False,False
+R00964,Karan,Male,26,0,Electric Scooter,26.8,0.889,3.64,DS30,False,False
+R00965,Sourabh,Female,44,7,Scooter,24.7,0.893,4.67,DS14,False,False
+R00966,Mohit,Female,22,4,Scooter,22.9,0.952,4.44,DS13,False,False
+R00967,Deepak,Female,21,2,Electric Scooter,29.8,0.934,4.61,DS28,False,False
+R00968,Pankaj,Male,33,7,Bicycle,16.6,0.989,3.74,DS03,False,False
+R00969,Sandeep,Male,27,10,Scooter,27.1,0.948,3.47,DS23,False,False
+R00970,Rahul,Male,40,4,Scooter,24.1,0.957,4.29,DS04,False,False
+R00971,Pankaj,Female,30,5,Scooter,25.5,0.956,4.51,DS28,False,False
+R00972,Abhishek,Male,24,7,Bicycle,14.5,0.899,3.55,DS08,False,False
+R00973,Sachin,Male,31,3,Electric Scooter,26.2,0.929,4.85,DS10,False,False
+R00974,Amit,Male,43,0,Electric Scooter,25.3,0.877,3.81,DS10,False,False
+R00975,Pankaj,Male,31,7,Bicycle,17.6,0.957,3.31,DS13,False,False
+R00976,Sandeep,Male,21,8,Bicycle,20.8,0.983,3.53,DS17,False,False
+R00977,Amit,Male,37,5,Bicycle,12.7,0.948,4.28,DS07,False,False
+R00978,Rakesh,Male,38,0,Electric Scooter,26.7,0.872,4.26,DS21,False,False
+R00979,Rakesh,Male,26,1,Scooter,31.6,0.822,3.79,DS04,False,False
+R00980,Rakesh,Male,20,8,Electric Scooter,31.9,0.99,4.16,DS14,False,False
+R00981,Karan,Male,45,5,Electric Scooter,26.7,0.989,3.94,DS28,False,False
+R00982,Rohit,Male,21,8,Scooter,23.3,0.93,4.79,DS16,False,False
+R00983,Vikas,Male,38,3,Electric Scooter,26.8,0.882,3.55,DS07,False,False
+R00984,Rohit,Male,30,10,Scooter,29.7,0.949,4.69,DS17,False,False
+R00985,Harish,Male,38,7,Scooter,24.8,0.961,3.52,DS02,False,False
+R00986,Harish,Male,31,3,Scooter,18.9,0.879,3.41,DS05,False,False
+R00987,Karan,Male,40,5,Scooter,24.0,0.898,4.07,DS04,False,False
+R00988,Deepak,Male,44,10,Electric Scooter,29.3,0.92,4.44,DS14,False,False
+R00989,Sourabh,Male,20,7,Scooter,23.0,0.926,3.49,DS28,False,False
+R00990,Amit,Male,36,5,Scooter,21.3,0.922,3.96,DS12,False,False
+R00991,Deepak,Female,22,3,Scooter,19.3,0.925,3.73,DS18,False,False
+R00992,Ajay,Male,24,1,Electric Scooter,26.5,0.867,4.71,DS11,False,False
+R00993,Amit,Male,23,4,Scooter,28.8,0.917,4.96,DS25,False,False
+R00994,Ajay,Male,27,4,Scooter,23.1,0.882,4.38,DS20,False,False
+R00995,Nitin,Male,20,1,Scooter,20.5,0.966,3.74,DS24,False,False
+R00996,Rakesh,Male,37,8,Bicycle,17.9,0.96,4.15,DS03,False,False
+R00997,Abhishek,Female,38,7,Electric Scooter,33.6,0.99,2.82,DS08,False,False
+R00998,Rahul,Male,44,4,Scooter,25.2,0.874,4.03,DS17,False,False
+R00999,Yash,Male,42,10,Scooter,24.1,0.954,4.04,DS24,False,False
+R01000,Deepak,Male,27,0,Bicycle,13.2,0.922,4.23,DS23,False,False
+R01001,Abhishek,Male,38,10,Scooter,24.7,0.966,4.15,DS15,False,False
+R01002,Rakesh,Male,39,7,Scooter,26.3,0.934,4.78,DS25,False,False
+R01003,Pankaj,Male,28,4,Scooter,22.4,0.909,3.4,DS04,False,False
+R01004,Aman,Male,45,7,Bicycle,17.9,0.867,3.91,DS16,False,False
+R01005,Manoj,Male,23,7,Bicycle,18.2,0.99,3.73,DS27,False,False
+R01006,Rahul,Male,40,0,Electric Scooter,21.0,0.895,2.77,DS15,False,False
+R01007,Sourabh,Male,25,2,Scooter,24.3,0.969,4.05,DS06,False,False
+R01008,Yash,Male,20,7,Scooter,27.5,0.957,4.42,DS02,False,False
+R01009,Sachin,Female,41,2,Scooter,25.7,0.902,4.1,DS19,False,False
+R01010,Rakesh,Male,25,7,Scooter,27.1,0.934,4.22,DS30,False,False
+R01011,Rahul,Male,45,10,Electric Scooter,29.7,0.93,3.92,DS08,False,False
+R01012,Rakesh,Male,39,0,Scooter,23.7,0.912,3.69,DS12,False,False
+R01013,Yash,Male,38,0,Scooter,22.5,0.849,3.66,DS13,False,False
+R01014,Amit,Female,39,10,Scooter,22.5,0.943,4.8,DS30,False,False
+R01015,Pankaj,Female,43,5,Electric Scooter,25.7,0.925,3.93,DS13,False,False
+R01016,Rakesh,Male,27,10,Bicycle,17.0,0.99,3.64,DS07,False,False
+R01017,Karan,Male,32,8,Scooter,24.1,0.93,3.98,DS09,False,False
+R01018,Sachin,Male,44,1,Scooter,26.2,0.958,3.74,DS24,False,False
+R01019,Aman,Male,42,1,Scooter,28.9,0.917,3.82,DS01,False,False
+R01020,Abhishek,Female,31,7,Scooter,17.355,0.7232000000000001,4.42,DS26,True,False
+R01021,Arjun,Male,43,4,Bicycle,16.0,0.988,4.23,DS12,False,False
+R01022,Amit,Male,27,5,Scooter,26.7,0.946,4.22,DS06,False,False
+R01023,Manoj,Male,19,3,Scooter,21.7,0.984,3.33,DS06,False,False
+R01024,Rakesh,Male,33,0,Electric Scooter,29.9,0.909,4.25,DS27,False,False
+R01025,Sourabh,Female,25,10,Scooter,28.6,0.977,3.49,DS23,False,False
+R01026,Manoj,Male,36,2,Scooter,29.4,0.926,4.12,DS29,False,False
+R01027,Pankaj,Male,38,10,Bicycle,18.8,0.99,3.5,DS11,False,False
+R01028,Rakesh,Male,25,7,Electric Scooter,35.3,0.91,3.93,DS27,False,False
+R01029,Sandeep,Male,28,10,Bicycle,18.0,0.947,3.69,DS21,False,False
+R01030,Rohit,Male,21,0,Scooter,24.8,0.877,3.72,DS16,False,False
+R01031,Sandeep,Male,21,1,Scooter,29.4,0.939,2.84,DS23,False,False
+R01032,Rakesh,Male,33,0,Bicycle,14.0,0.983,4.28,DS13,False,False
+R01033,Sandeep,Male,34,4,Scooter,27.6,0.888,4.38,DS22,False,False
+R01034,Sourabh,Female,39,9,Electric Scooter,30.4,0.935,4.16,DS13,False,False
+R01035,Deepak,Male,21,1,Electric Scooter,27.2,0.893,3.55,DS19,False,False
+R01036,Abhishek,Male,26,9,Scooter,26.0,0.935,4.25,DS15,False,False
+R01037,Pankaj,Male,42,3,Bicycle,16.1,0.957,4.25,DS12,False,False
+R01038,Vikas,Female,42,8,Scooter,24.0,0.927,3.41,DS01,False,False
+R01039,Yash,Male,33,0,Bicycle,17.6,0.885,3.58,DS08,False,False
+R01040,Vikas,Male,44,7,Scooter,25.3,0.908,4.23,DS18,False,False
+R01041,Sachin,Male,28,4,Scooter,24.9,0.871,4.12,DS24,False,False
+R01042,Rohit,Male,31,9,Scooter,32.9,0.932,4.11,DS08,False,False
+R01043,Aman,Male,26,9,Bicycle,16.7,0.912,4.63,DS30,False,False
+R01044,Yash,Male,19,7,Scooter,27.0,0.916,4.05,DS22,False,False
+R01045,Sachin,Male,32,1,Scooter,25.5,0.872,3.65,DS28,False,False
+R01046,Amit,Male,19,2,Scooter,25.1,0.921,4.05,DS16,False,False
+R01047,Amit,Male,31,1,Electric Scooter,25.9,0.918,3.49,DS28,False,False
+R01048,Harish,Male,22,2,Electric Scooter,24.7,0.944,4.4,DS26,False,False
+R01049,Manoj,Male,40,5,Scooter,29.9,0.937,4.08,DS22,False,False
+R01050,Rohit,Male,19,0,Scooter,20.0,0.941,3.87,DS03,False,False
+R01051,Vikas,Male,39,3,Scooter,25.9,0.94,3.68,DS02,False,False
+R01052,Pankaj,Male,32,6,Electric Scooter,27.1,0.955,3.91,DS06,False,False
+R01053,Karan,Male,37,0,Bicycle,16.5,0.935,3.66,DS12,False,False
+R01054,Mohit,Male,42,1,Scooter,26.9,0.933,3.89,DS25,False,False
+R01055,Deepak,Male,40,0,Scooter,25.6,0.861,3.88,DS16,False,False
+R01056,Amit,Male,35,5,Electric Scooter,24.8,0.9,3.45,DS02,False,False
+R01057,Rakesh,Male,20,2,Scooter,24.0,0.919,3.9,DS12,False,False
+R01058,Amit,Female,43,6,Electric Scooter,31.0,0.914,4.37,DS05,False,False
+R01059,Sourabh,Male,45,3,Bicycle,16.5,0.957,3.81,DS19,False,False
+R01060,Manoj,Male,27,6,Bicycle,17.2,0.979,3.24,DS05,False,False
+R01061,Sachin,Male,22,2,Electric Scooter,24.8,0.911,3.81,DS22,False,False
+R01062,Nitin,Male,37,10,Electric Scooter,31.2,0.947,3.66,DS11,False,False
+R01063,Sachin,Male,36,0,Scooter,28.0,0.936,4.39,DS19,False,False
+R01064,Manoj,Male,40,5,Scooter,22.5,0.99,4.11,DS10,False,False
+R01065,Rahul,Male,27,1,Electric Scooter,25.9,0.863,3.6,DS01,False,False
+R01066,Rahul,Male,34,6,Bicycle,16.5,0.872,4.37,DS05,False,False
+R01067,Manoj,Female,42,0,Bicycle,15.9,0.891,4.01,DS01,False,False
+R01068,Harish,Male,22,9,Scooter,26.6,0.917,4.32,DS21,False,False
+R01069,Mohit,Male,22,0,Electric Scooter,23.6,0.921,3.97,DS19,False,False
+R01070,Yash,Male,20,5,Scooter,23.8,0.913,3.74,DS24,False,False
+R01071,Ajay,Male,33,0,Scooter,22.8,0.869,3.68,DS16,False,False
+R01072,Harish,Male,40,1,Electric Scooter,27.2,0.918,3.65,DS05,False,False
+R01073,Rakesh,Male,26,3,Scooter,25.7,0.859,4.46,DS03,False,False
+R01074,Sourabh,Male,41,7,Bicycle,13.1,0.893,3.93,DS14,False,False
+R01075,Aman,Male,26,3,Electric Scooter,23.1,0.96,3.5,DS20,False,False
+R01076,Harish,Male,26,3,Electric Scooter,33.9,0.861,3.82,DS10,False,False
+R01077,Rohit,Male,45,5,Bicycle,14.9,0.99,4.61,DS20,False,False
+R01078,Pankaj,Male,35,0,Electric Scooter,27.1,0.84,4.0,DS24,False,False
+R01079,Harish,Male,33,4,Scooter,29.8,0.919,4.81,DS26,False,False
+R01080,Deepak,Male,21,4,Bicycle,15.5,0.928,3.96,DS29,False,False
+R01081,Sandeep,Male,25,9,Scooter,24.2,0.926,4.37,DS17,False,False
+R01082,Abhishek,Male,31,0,Electric Scooter,26.8,0.919,3.42,DS15,False,False
+R01083,Harish,Male,32,9,Electric Scooter,34.0,0.979,3.85,DS05,False,False
+R01084,Vikas,Male,44,5,Scooter,28.4,0.973,3.98,DS03,False,False
+R01085,Vikas,Male,37,6,Electric Scooter,29.0,0.96,4.72,DS26,False,False
+R01086,Rahul,Female,40,7,Scooter,27.2,0.936,4.53,DS30,False,False
+R01087,Ajay,Male,40,7,Electric Scooter,29.9,0.941,4.01,DS21,False,False
+R01088,Deepak,Male,43,10,Scooter,25.5,0.944,4.16,DS21,False,False
+R01089,Vikas,Male,36,1,Electric Scooter,24.7,0.885,3.38,DS28,False,False
+R01090,Aman,Male,42,8,Scooter,30.0,0.949,3.62,DS01,False,False
+R01091,Yash,Male,43,1,Scooter,28.7,0.9,3.21,DS21,False,False
+R01092,Harish,Female,31,7,Scooter,28.3,0.959,3.52,DS19,False,False
+R01093,Nitin,Male,24,9,Scooter,24.9,0.98,4.37,DS17,False,False
+R01094,Karan,Male,41,5,Scooter,23.9,0.96,4.06,DS08,False,False
+R01095,Sachin,Male,33,1,Scooter,22.7,0.952,3.77,DS23,False,False
+R01096,Ajay,Male,42,10,Scooter,23.5,0.99,4.17,DS07,False,False
+R01097,Karan,Male,40,8,Bicycle,14.1,0.926,3.86,DS15,False,False
+R01098,Aman,Male,30,1,Scooter,29.2,0.903,4.8,DS30,False,False
+R01099,Aman,Male,38,3,Scooter,23.3,0.893,3.98,DS28,False,False
+R01100,Deepak,Male,22,5,Scooter,28.2,0.933,4.07,DS20,False,False
+R01101,Sachin,Male,19,6,Bicycle,18.8,0.907,4.13,DS11,False,False
+R01102,Karan,Male,32,2,Scooter,22.8,0.852,4.72,DS07,False,False
+R01103,Amit,Male,23,1,Scooter,29.1,0.96,4.52,DS24,False,False
+R01104,Ajay,Male,22,8,Scooter,25.5,0.925,4.3,DS23,False,False
+R01105,Deepak,Male,26,5,Electric Scooter,29.7,0.933,4.1,DS05,False,False
+R01106,Ajay,Female,41,0,Electric Scooter,26.2,0.861,4.06,DS11,False,False
+R01107,Arjun,Male,24,9,Scooter,27.0,0.954,3.4,DS18,False,False
+R01108,Arjun,Male,27,10,Bicycle,15.4,0.917,3.22,DS10,False,False
+R01109,Deepak,Female,35,8,Scooter,28.0,0.915,4.2,DS16,False,False
+R01110,Mohit,Male,40,1,Scooter,26.7,0.865,4.5,DS25,False,False
+R01111,Rakesh,Male,36,0,Scooter,22.2,0.945,4.13,DS19,False,False
+R01112,Mohit,Male,23,0,Scooter,27.0,0.944,4.76,DS06,False,False
+R01113,Karan,Male,36,8,Electric Scooter,29.4,0.934,4.45,DS25,False,False
+R01114,Harish,Male,44,9,Scooter,29.6,0.951,4.21,DS14,False,False
+R01115,Rakesh,Male,24,0,Scooter,23.1,0.946,4.52,DS28,False,False
+R01116,Sandeep,Male,29,3,Bicycle,15.5,0.868,3.6,DS07,False,False
+R01117,Abhishek,Male,31,0,Scooter,24.7,0.867,4.4,DS05,False,False
+R01118,Sourabh,Male,25,3,Scooter,26.9,0.861,3.62,DS23,False,False
+R01119,Rakesh,Male,35,7,Bicycle,17.2,0.85,3.97,DS30,False,False
+R01120,Karan,Male,25,9,Electric Scooter,31.6,0.916,4.24,DS26,False,False
+R01121,Rahul,Male,34,2,Scooter,24.2,0.886,4.17,DS25,False,False
+R01122,Rahul,Male,45,3,Electric Scooter,30.6,0.961,3.17,DS06,False,False
+R01123,Nitin,Male,28,3,Bicycle,14.1,0.893,3.76,DS04,False,False
+R01124,Manoj,Male,23,9,Scooter,31.2,0.99,4.1,DS03,False,False
+R01125,Manoj,Male,25,8,Bicycle,16.8,0.971,3.8,DS18,False,False
+R01126,Sandeep,Female,36,9,Electric Scooter,30.8,0.99,4.25,DS27,False,False
+R01127,Pankaj,Male,24,9,Scooter,32.0,0.922,4.62,DS27,False,False
+R01128,Yash,Male,22,0,Bicycle,15.2,0.96,4.37,DS16,False,False
+R01129,Rakesh,Male,20,8,Electric Scooter,29.8,0.931,3.86,DS18,False,False
+R01130,Sandeep,Female,30,7,Bicycle,14.3,0.945,4.12,DS15,False,False
+R01131,Arjun,Male,20,4,Scooter,24.2,0.915,4.22,DS17,False,False
+R01132,Mohit,Male,42,9,Electric Scooter,28.3,0.96,4.39,DS15,False,False
+R01133,Pankaj,Male,30,2,Electric Scooter,33.7,0.935,4.05,DS28,False,False
+R01134,Sachin,Female,38,1,Scooter,28.8,0.941,3.39,DS19,False,False
+R01135,Rakesh,Male,38,3,Bicycle,14.1,0.917,4.34,DS26,False,False
+R01136,Harish,Male,31,9,Electric Scooter,39.7,0.924,4.02,DS29,False,False
+R01137,Deepak,Male,43,3,Electric Scooter,25.4,0.882,3.94,DS01,False,False
+R01138,Yash,Male,23,5,Electric Scooter,26.9,0.973,4.76,DS05,False,False
+R01139,Yash,Male,19,5,Scooter,26.3,0.888,4.08,DS01,False,False
+R01140,Rohit,Male,37,10,Scooter,25.5,0.982,4.51,DS25,False,False
+R01141,Amit,Male,37,9,Scooter,23.0,0.963,3.62,DS23,False,False
+R01142,Rakesh,Male,35,10,Bicycle,16.7,0.894,4.24,DS16,False,False
+R01143,Abhishek,Male,41,0,Bicycle,14.0,0.873,3.51,DS23,False,False
+R01144,Rakesh,Male,21,5,Scooter,21.9,0.943,3.8,DS08,False,False
+R01145,Vikas,Male,20,9,Electric Scooter,27.8,0.92,3.41,DS02,False,False
+R01146,Amit,Male,24,9,Scooter,32.0,0.927,3.57,DS19,False,False
+R01147,Harish,Male,31,5,Scooter,33.0,0.853,3.87,DS04,False,False
+R01148,Manoj,Female,40,10,Scooter,27.2,0.915,3.71,DS10,False,False
+R01149,Sandeep,Male,31,3,Electric Scooter,26.9,0.854,4.27,DS28,False,False
+R01150,Mohit,Female,36,7,Scooter,26.1,0.974,4.83,DS30,False,False
+R01151,Amit,Male,45,1,Bicycle,16.9,0.9,3.41,DS25,False,False
+R01152,Manoj,Male,37,2,Bicycle,14.8,0.892,3.45,DS28,False,False
+R01153,Nitin,Male,26,3,Scooter,24.0,0.848,4.11,DS16,False,False
+R01154,Amit,Male,34,10,Electric Scooter,27.8,0.959,3.67,DS21,False,False
+R01155,Vikas,Male,36,1,Scooter,26.8,0.918,4.1,DS02,False,False
+R01156,Harish,Male,27,3,Electric Scooter,26.1,0.861,4.3,DS21,False,False
+R01157,Rohit,Male,25,9,Scooter,29.9,0.979,4.36,DS21,False,False
+R01158,Rohit,Female,45,2,Scooter,25.7,0.903,3.86,DS01,False,False
+R01159,Nitin,Male,29,3,Scooter,24.1,0.957,3.92,DS22,False,False
+R01160,Manoj,Male,28,1,Scooter,20.2,0.877,2.91,DS24,False,False
+R01161,Nitin,Male,19,3,Scooter,25.8,0.876,3.95,DS25,False,False
+R01162,Arjun,Female,31,6,Bicycle,15.8,0.905,4.53,DS30,False,False
+R01163,Vikas,Female,26,5,Scooter,23.6,0.937,4.58,DS01,False,False
+R01164,Sandeep,Male,38,5,Scooter,24.1,0.96,3.99,DS30,False,False
+R01165,Rahul,Male,24,3,Electric Scooter,32.9,0.892,4.63,DS06,False,False
+R01166,Rakesh,Male,34,6,Scooter,23.6,0.988,4.12,DS08,False,False
+R01167,Arjun,Male,42,2,Scooter,28.9,0.891,3.92,DS04,False,False
+R01168,Harish,Male,40,8,Bicycle,16.9,0.969,4.09,DS14,False,False
+R01169,Manoj,Male,40,3,Scooter,26.0,0.928,4.06,DS22,False,False
+R01170,Manoj,Male,38,3,Scooter,21.2,0.81,4.25,DS15,False,False
+R01171,Mohit,Male,36,4,Scooter,25.1,0.919,4.01,DS03,False,False
+R01172,Rohit,Female,29,1,Electric Scooter,31.8,0.922,4.55,DS23,False,False
+R01173,Deepak,Male,26,1,Electric Scooter,24.6,0.878,4.16,DS01,False,False
+R01174,Rakesh,Male,25,5,Scooter,23.6,0.986,4.33,DS12,False,False
+R01175,Arjun,Male,22,7,Electric Scooter,33.1,0.941,3.53,DS30,False,False
+R01176,Yash,Male,26,6,Bicycle,18.9,0.94,3.61,DS20,False,False
+R01177,Pankaj,Male,27,0,Bicycle,12.6,0.943,3.92,DS30,False,False
+R01178,Yash,Female,32,10,Scooter,27.5,0.93,3.39,DS03,False,False
+R01179,Pankaj,Male,20,6,Bicycle,16.8,0.963,3.69,DS10,False,False
+R01180,Sachin,Female,26,3,Scooter,28.7,0.904,3.94,DS11,False,False
+R01181,Harish,Female,34,6,Scooter,26.4,0.921,4.01,DS01,False,False
+R01182,Ajay,Male,36,8,Electric Scooter,33.7,0.936,4.08,DS26,False,False
+R01183,Amit,Male,20,0,Scooter,20.5,0.882,3.4,DS11,False,False
+R01184,Harish,Male,37,6,Bicycle,15.8,0.99,3.84,DS09,False,False
+R01185,Aman,Male,41,0,Bicycle,12.5,0.938,3.78,DS09,False,False
+R01186,Nitin,Male,36,10,Scooter,31.4,0.894,4.2,DS29,False,False
+R01187,Mohit,Male,33,1,Scooter,23.5,0.913,3.15,DS01,False,False
+R01188,Pankaj,Male,36,5,Electric Scooter,25.7,0.931,4.53,DS18,False,False
+R01189,Sourabh,Male,41,10,Electric Scooter,30.4,0.947,4.16,DS22,False,False
+R01190,Harish,Male,38,1,Bicycle,14.1,0.9,3.42,DS08,False,False
+R01191,Pankaj,Male,34,2,Scooter,25.4,0.841,3.42,DS30,False,False
+R01192,Rakesh,Male,31,8,Bicycle,15.7,0.988,3.68,DS29,False,False
+R01193,Deepak,Male,43,1,Bicycle,14.4,0.938,3.51,DS20,False,False
+R01194,Sourabh,Female,39,1,Bicycle,14.2,0.92,4.48,DS15,False,False
+R01195,Sourabh,Male,39,1,Electric Scooter,32.2,0.903,4.29,DS23,False,False
+R01196,Karan,Male,37,5,Bicycle,14.8,0.965,3.56,DS18,False,False
+R01197,Manoj,Male,28,8,Scooter,26.6,0.96,3.79,DS08,False,False
+R01198,Aman,Male,30,3,Scooter,23.5,0.91,3.75,DS01,False,False
+R01199,Sourabh,Female,27,9,Scooter,18.07,0.792,3.68,DS19,True,False
+R01200,Mohit,Male,20,6,Electric Scooter,25.7,0.937,3.94,DS01,False,False
